@@ -1,0 +1,229 @@
+edge_id,tactical_phase,team,player,pass_recipient,pass_count,passer_total_passes,node_x,node_y,path_order
+Phase 1: First Half (0-45')_Alejandro Balde Martínez_to_Daniel Olmo Carvajal,Phase 1: First Half (0-45'),Spain,Alejandro Balde Martínez,Daniel Olmo Carvajal,8,49,63.54489795918367,9.730612244897959,1
+Phase 1: First Half (0-45')_Alejandro Balde Martínez_to_Daniel Olmo Carvajal,Phase 1: First Half (0-45'),Spain,Alejandro Balde Martínez,Daniel Olmo Carvajal,8,49,81.87647058823529,12.729411764705883,2
+Phase 1: First Half (0-45')_Alejandro Balde Martínez_to_Pau Francisco Torres,Phase 1: First Half (0-45'),Spain,Alejandro Balde Martínez,Pau Francisco Torres,26,49,63.54489795918367,9.730612244897959,1
+Phase 1: First Half (0-45')_Alejandro Balde Martínez_to_Pau Francisco Torres,Phase 1: First Half (0-45'),Spain,Alejandro Balde Martínez,Pau Francisco Torres,26,49,51.589814814814815,26.73148148148148,2
+Phase 1: First Half (0-45')_Alejandro Balde Martínez_to_Pedro González López,Phase 1: First Half (0-45'),Spain,Alejandro Balde Martínez,Pedro González López,12,49,63.54489795918367,9.730612244897959,1
+Phase 1: First Half (0-45')_Alejandro Balde Martínez_to_Pedro González López,Phase 1: First Half (0-45'),Spain,Alejandro Balde Martínez,Pedro González López,12,49,68.8093023255814,24.634883720930233,2
+Phase 1: First Half (0-45')_Alejandro Balde Martínez_to_Unai Simón Mendibil,Phase 1: First Half (0-45'),Spain,Alejandro Balde Martínez,Unai Simón Mendibil,2,49,63.54489795918367,9.730612244897959,1
+Phase 1: First Half (0-45')_Alejandro Balde Martínez_to_Unai Simón Mendibil,Phase 1: First Half (0-45'),Spain,Alejandro Balde Martínez,Unai Simón Mendibil,2,49,16.738095238095237,43.01904761904762,2
+Phase 1: First Half (0-45')_Ao Tanaka_to_Junya Ito,Phase 1: First Half (0-45'),Japan,Ao Tanaka,Junya Ito,4,9,55.87777777777777,48.86666666666667,1
+Phase 1: First Half (0-45')_Ao Tanaka_to_Junya Ito,Phase 1: First Half (0-45'),Japan,Ao Tanaka,Junya Ito,4,9,46.16923076923077,70.27692307692308,2
+Phase 1: First Half (0-45')_Ao Tanaka_to_Shogo Taniguchi,Phase 1: First Half (0-45'),Japan,Ao Tanaka,Shogo Taniguchi,2,9,55.87777777777777,48.86666666666667,1
+Phase 1: First Half (0-45')_Ao Tanaka_to_Shogo Taniguchi,Phase 1: First Half (0-45'),Japan,Ao Tanaka,Shogo Taniguchi,2,9,46.39333333333333,15.266666666666667,2
+Phase 1: First Half (0-45')_César Azpilicueta Tanco_to_Nicholas Williams Arthuer,Phase 1: First Half (0-45'),Spain,César Azpilicueta Tanco,Nicholas Williams Arthuer,15,70,61.675714285714285,69.36571428571429,1
+Phase 1: First Half (0-45')_César Azpilicueta Tanco_to_Nicholas Williams Arthuer,Phase 1: First Half (0-45'),Spain,César Azpilicueta Tanco,Nicholas Williams Arthuer,15,70,75.28181818181818,74.28181818181818,2
+Phase 1: First Half (0-45')_César Azpilicueta Tanco_to_Pablo Martín Páez Gavira,Phase 1: First Half (0-45'),Spain,César Azpilicueta Tanco,Pablo Martín Páez Gavira,12,70,61.675714285714285,69.36571428571429,1
+Phase 1: First Half (0-45')_César Azpilicueta Tanco_to_Pablo Martín Páez Gavira,Phase 1: First Half (0-45'),Spain,César Azpilicueta Tanco,Pablo Martín Páez Gavira,12,70,70.92941176470588,59.80588235294118,2
+Phase 1: First Half (0-45')_César Azpilicueta Tanco_to_Pau Francisco Torres,Phase 1: First Half (0-45'),Spain,César Azpilicueta Tanco,Pau Francisco Torres,6,70,61.675714285714285,69.36571428571429,1
+Phase 1: First Half (0-45')_César Azpilicueta Tanco_to_Pau Francisco Torres,Phase 1: First Half (0-45'),Spain,César Azpilicueta Tanco,Pau Francisco Torres,6,70,51.589814814814815,26.73148148148148,2
+Phase 1: First Half (0-45')_César Azpilicueta Tanco_to_Rodrigo Hernández Cascante,Phase 1: First Half (0-45'),Spain,César Azpilicueta Tanco,Rodrigo Hernández Cascante,23,70,61.675714285714285,69.36571428571429,1
+Phase 1: First Half (0-45')_César Azpilicueta Tanco_to_Rodrigo Hernández Cascante,Phase 1: First Half (0-45'),Spain,César Azpilicueta Tanco,Rodrigo Hernández Cascante,23,70,50.57913043478261,50.82,2
+Phase 1: First Half (0-45')_César Azpilicueta Tanco_to_Sergio Busquets i Burgos,Phase 1: First Half (0-45'),Spain,César Azpilicueta Tanco,Sergio Busquets i Burgos,9,70,61.675714285714285,69.36571428571429,1
+Phase 1: First Half (0-45')_César Azpilicueta Tanco_to_Sergio Busquets i Burgos,Phase 1: First Half (0-45'),Spain,César Azpilicueta Tanco,Sergio Busquets i Burgos,9,70,64.4795918367347,44.4,2
+Phase 1: First Half (0-45')_César Azpilicueta Tanco_to_Unai Simón Mendibil,Phase 1: First Half (0-45'),Spain,César Azpilicueta Tanco,Unai Simón Mendibil,3,70,61.675714285714285,69.36571428571429,1
+Phase 1: First Half (0-45')_César Azpilicueta Tanco_to_Unai Simón Mendibil,Phase 1: First Half (0-45'),Spain,César Azpilicueta Tanco,Unai Simón Mendibil,3,70,16.738095238095237,43.01904761904762,2
+Phase 1: First Half (0-45')_César Azpilicueta Tanco_to_Álvaro Borja Morata Martín,Phase 1: First Half (0-45'),Spain,César Azpilicueta Tanco,Álvaro Borja Morata Martín,2,70,61.675714285714285,69.36571428571429,1
+Phase 1: First Half (0-45')_César Azpilicueta Tanco_to_Álvaro Borja Morata Martín,Phase 1: First Half (0-45'),Spain,César Azpilicueta Tanco,Álvaro Borja Morata Martín,2,70,76.27272727272727,33.17272727272728,2
+Phase 1: First Half (0-45')_Daichi Kamada_to_Shogo Taniguchi,Phase 1: First Half (0-45'),Japan,Daichi Kamada,Shogo Taniguchi,2,7,66.94285714285715,26.0,1
+Phase 1: First Half (0-45')_Daichi Kamada_to_Shogo Taniguchi,Phase 1: First Half (0-45'),Japan,Daichi Kamada,Shogo Taniguchi,2,7,46.39333333333333,15.266666666666667,2
+Phase 1: First Half (0-45')_Daichi Kamada_to_Yuto Nagatomo,Phase 1: First Half (0-45'),Japan,Daichi Kamada,Yuto Nagatomo,2,7,66.94285714285715,26.0,1
+Phase 1: First Half (0-45')_Daichi Kamada_to_Yuto Nagatomo,Phase 1: First Half (0-45'),Japan,Daichi Kamada,Yuto Nagatomo,2,7,69.75714285714285,5.7,2
+Phase 1: First Half (0-45')_Daizen Maeda_to_Takefusa Kubo,Phase 1: First Half (0-45'),Japan,Daizen Maeda,Takefusa Kubo,2,3,84.06666666666666,46.4,1
+Phase 1: First Half (0-45')_Daizen Maeda_to_Takefusa Kubo,Phase 1: First Half (0-45'),Japan,Daizen Maeda,Takefusa Kubo,2,3,83.48333333333333,29.816666666666666,2
+Phase 1: First Half (0-45')_Daniel Olmo Carvajal_to_Alejandro Balde Martínez,Phase 1: First Half (0-45'),Spain,Daniel Olmo Carvajal,Alejandro Balde Martínez,8,17,81.87647058823529,12.729411764705883,1
+Phase 1: First Half (0-45')_Daniel Olmo Carvajal_to_Alejandro Balde Martínez,Phase 1: First Half (0-45'),Spain,Daniel Olmo Carvajal,Alejandro Balde Martínez,8,17,63.54489795918367,9.730612244897959,2
+Phase 1: First Half (0-45')_Daniel Olmo Carvajal_to_Pau Francisco Torres,Phase 1: First Half (0-45'),Spain,Daniel Olmo Carvajal,Pau Francisco Torres,2,17,81.87647058823529,12.729411764705883,1
+Phase 1: First Half (0-45')_Daniel Olmo Carvajal_to_Pau Francisco Torres,Phase 1: First Half (0-45'),Spain,Daniel Olmo Carvajal,Pau Francisco Torres,2,17,51.589814814814815,26.73148148148148,2
+Phase 1: First Half (0-45')_Daniel Olmo Carvajal_to_Pedro González López,Phase 1: First Half (0-45'),Spain,Daniel Olmo Carvajal,Pedro González López,3,17,81.87647058823529,12.729411764705883,1
+Phase 1: First Half (0-45')_Daniel Olmo Carvajal_to_Pedro González López,Phase 1: First Half (0-45'),Spain,Daniel Olmo Carvajal,Pedro González López,3,17,68.8093023255814,24.634883720930233,2
+Phase 1: First Half (0-45')_Hidemasa Morita_to_Ao Tanaka,Phase 1: First Half (0-45'),Japan,Hidemasa Morita,Ao Tanaka,4,15,54.88666666666666,29.220000000000002,1
+Phase 1: First Half (0-45')_Hidemasa Morita_to_Ao Tanaka,Phase 1: First Half (0-45'),Japan,Hidemasa Morita,Ao Tanaka,4,15,55.87777777777777,48.86666666666667,2
+Phase 1: First Half (0-45')_Hidemasa Morita_to_Ko Itakura,Phase 1: First Half (0-45'),Japan,Hidemasa Morita,Ko Itakura,2,15,54.88666666666666,29.220000000000002,1
+Phase 1: First Half (0-45')_Hidemasa Morita_to_Ko Itakura,Phase 1: First Half (0-45'),Japan,Hidemasa Morita,Ko Itakura,2,15,31.95,53.83,2
+Phase 1: First Half (0-45')_Hidemasa Morita_to_Shogo Taniguchi,Phase 1: First Half (0-45'),Japan,Hidemasa Morita,Shogo Taniguchi,5,15,54.88666666666666,29.220000000000002,1
+Phase 1: First Half (0-45')_Hidemasa Morita_to_Shogo Taniguchi,Phase 1: First Half (0-45'),Japan,Hidemasa Morita,Shogo Taniguchi,5,15,46.39333333333333,15.266666666666667,2
+Phase 1: First Half (0-45')_Junya Ito_to_Ao Tanaka,Phase 1: First Half (0-45'),Japan,Junya Ito,Ao Tanaka,3,13,46.16923076923077,70.27692307692308,1
+Phase 1: First Half (0-45')_Junya Ito_to_Ao Tanaka,Phase 1: First Half (0-45'),Japan,Junya Ito,Ao Tanaka,3,13,55.87777777777777,48.86666666666667,2
+Phase 1: First Half (0-45')_Junya Ito_to_Ko Itakura,Phase 1: First Half (0-45'),Japan,Junya Ito,Ko Itakura,3,13,46.16923076923077,70.27692307692308,1
+Phase 1: First Half (0-45')_Junya Ito_to_Ko Itakura,Phase 1: First Half (0-45'),Japan,Junya Ito,Ko Itakura,3,13,31.95,53.83,2
+Phase 1: First Half (0-45')_Junya Ito_to_Maya Yoshida,Phase 1: First Half (0-45'),Japan,Junya Ito,Maya Yoshida,2,13,46.16923076923077,70.27692307692308,1
+Phase 1: First Half (0-45')_Junya Ito_to_Maya Yoshida,Phase 1: First Half (0-45'),Japan,Junya Ito,Maya Yoshida,2,13,33.12,39.3,2
+Phase 1: First Half (0-45')_Junya Ito_to_Takefusa Kubo,Phase 1: First Half (0-45'),Japan,Junya Ito,Takefusa Kubo,4,13,46.16923076923077,70.27692307692308,1
+Phase 1: First Half (0-45')_Junya Ito_to_Takefusa Kubo,Phase 1: First Half (0-45'),Japan,Junya Ito,Takefusa Kubo,4,13,83.48333333333333,29.816666666666666,2
+Phase 1: First Half (0-45')_Ko Itakura_to_Junya Ito,Phase 1: First Half (0-45'),Japan,Ko Itakura,Junya Ito,4,10,31.95,53.83,1
+Phase 1: First Half (0-45')_Ko Itakura_to_Junya Ito,Phase 1: First Half (0-45'),Japan,Ko Itakura,Junya Ito,4,10,46.16923076923077,70.27692307692308,2
+Phase 1: First Half (0-45')_Ko Itakura_to_Maya Yoshida,Phase 1: First Half (0-45'),Japan,Ko Itakura,Maya Yoshida,2,10,31.95,53.83,1
+Phase 1: First Half (0-45')_Ko Itakura_to_Maya Yoshida,Phase 1: First Half (0-45'),Japan,Ko Itakura,Maya Yoshida,2,10,33.12,39.3,2
+Phase 1: First Half (0-45')_Ko Itakura_to_Shūichi Gonda,Phase 1: First Half (0-45'),Japan,Ko Itakura,Shūichi Gonda,2,10,31.95,53.83,1
+Phase 1: First Half (0-45')_Ko Itakura_to_Shūichi Gonda,Phase 1: First Half (0-45'),Japan,Ko Itakura,Shūichi Gonda,2,10,9.85,38.550000000000004,2
+Phase 1: First Half (0-45')_Maya Yoshida_to_Daichi Kamada,Phase 1: First Half (0-45'),Japan,Maya Yoshida,Daichi Kamada,3,10,33.12,39.3,1
+Phase 1: First Half (0-45')_Maya Yoshida_to_Daichi Kamada,Phase 1: First Half (0-45'),Japan,Maya Yoshida,Daichi Kamada,3,10,66.94285714285715,26.0,2
+Phase 1: First Half (0-45')_Maya Yoshida_to_Shūichi Gonda,Phase 1: First Half (0-45'),Japan,Maya Yoshida,Shūichi Gonda,2,10,33.12,39.3,1
+Phase 1: First Half (0-45')_Maya Yoshida_to_Shūichi Gonda,Phase 1: First Half (0-45'),Japan,Maya Yoshida,Shūichi Gonda,2,10,9.85,38.550000000000004,2
+Phase 1: First Half (0-45')_Maya Yoshida_to_Yuto Nagatomo,Phase 1: First Half (0-45'),Japan,Maya Yoshida,Yuto Nagatomo,2,10,33.12,39.3,1
+Phase 1: First Half (0-45')_Maya Yoshida_to_Yuto Nagatomo,Phase 1: First Half (0-45'),Japan,Maya Yoshida,Yuto Nagatomo,2,10,69.75714285714285,5.7,2
+Phase 1: First Half (0-45')_Nicholas Williams Arthuer_to_César Azpilicueta Tanco,Phase 1: First Half (0-45'),Spain,Nicholas Williams Arthuer,César Azpilicueta Tanco,12,22,75.28181818181818,74.28181818181818,1
+Phase 1: First Half (0-45')_Nicholas Williams Arthuer_to_César Azpilicueta Tanco,Phase 1: First Half (0-45'),Spain,Nicholas Williams Arthuer,César Azpilicueta Tanco,12,22,61.675714285714285,69.36571428571429,2
+Phase 1: First Half (0-45')_Nicholas Williams Arthuer_to_Pablo Martín Páez Gavira,Phase 1: First Half (0-45'),Spain,Nicholas Williams Arthuer,Pablo Martín Páez Gavira,6,22,75.28181818181818,74.28181818181818,1
+Phase 1: First Half (0-45')_Nicholas Williams Arthuer_to_Pablo Martín Páez Gavira,Phase 1: First Half (0-45'),Spain,Nicholas Williams Arthuer,Pablo Martín Páez Gavira,6,22,70.92941176470588,59.80588235294118,2
+Phase 1: First Half (0-45')_Nicholas Williams Arthuer_to_Sergio Busquets i Burgos,Phase 1: First Half (0-45'),Spain,Nicholas Williams Arthuer,Sergio Busquets i Burgos,4,22,75.28181818181818,74.28181818181818,1
+Phase 1: First Half (0-45')_Nicholas Williams Arthuer_to_Sergio Busquets i Burgos,Phase 1: First Half (0-45'),Spain,Nicholas Williams Arthuer,Sergio Busquets i Burgos,4,22,64.4795918367347,44.4,2
+Phase 1: First Half (0-45')_Pablo Martín Páez Gavira_to_César Azpilicueta Tanco,Phase 1: First Half (0-45'),Spain,Pablo Martín Páez Gavira,César Azpilicueta Tanco,8,34,70.92941176470588,59.80588235294118,1
+Phase 1: First Half (0-45')_Pablo Martín Páez Gavira_to_César Azpilicueta Tanco,Phase 1: First Half (0-45'),Spain,Pablo Martín Páez Gavira,César Azpilicueta Tanco,8,34,61.675714285714285,69.36571428571429,2
+Phase 1: First Half (0-45')_Pablo Martín Páez Gavira_to_Nicholas Williams Arthuer,Phase 1: First Half (0-45'),Spain,Pablo Martín Páez Gavira,Nicholas Williams Arthuer,3,34,70.92941176470588,59.80588235294118,1
+Phase 1: First Half (0-45')_Pablo Martín Páez Gavira_to_Nicholas Williams Arthuer,Phase 1: First Half (0-45'),Spain,Pablo Martín Páez Gavira,Nicholas Williams Arthuer,3,34,75.28181818181818,74.28181818181818,2
+Phase 1: First Half (0-45')_Pablo Martín Páez Gavira_to_Pau Francisco Torres,Phase 1: First Half (0-45'),Spain,Pablo Martín Páez Gavira,Pau Francisco Torres,4,34,70.92941176470588,59.80588235294118,1
+Phase 1: First Half (0-45')_Pablo Martín Páez Gavira_to_Pau Francisco Torres,Phase 1: First Half (0-45'),Spain,Pablo Martín Páez Gavira,Pau Francisco Torres,4,34,51.589814814814815,26.73148148148148,2
+Phase 1: First Half (0-45')_Pablo Martín Páez Gavira_to_Pedro González López,Phase 1: First Half (0-45'),Spain,Pablo Martín Páez Gavira,Pedro González López,2,34,70.92941176470588,59.80588235294118,1
+Phase 1: First Half (0-45')_Pablo Martín Páez Gavira_to_Pedro González López,Phase 1: First Half (0-45'),Spain,Pablo Martín Páez Gavira,Pedro González López,2,34,68.8093023255814,24.634883720930233,2
+Phase 1: First Half (0-45')_Pablo Martín Páez Gavira_to_Rodrigo Hernández Cascante,Phase 1: First Half (0-45'),Spain,Pablo Martín Páez Gavira,Rodrigo Hernández Cascante,9,34,70.92941176470588,59.80588235294118,1
+Phase 1: First Half (0-45')_Pablo Martín Páez Gavira_to_Rodrigo Hernández Cascante,Phase 1: First Half (0-45'),Spain,Pablo Martín Páez Gavira,Rodrigo Hernández Cascante,9,34,50.57913043478261,50.82,2
+Phase 1: First Half (0-45')_Pablo Martín Páez Gavira_to_Sergio Busquets i Burgos,Phase 1: First Half (0-45'),Spain,Pablo Martín Páez Gavira,Sergio Busquets i Burgos,5,34,70.92941176470588,59.80588235294118,1
+Phase 1: First Half (0-45')_Pablo Martín Páez Gavira_to_Sergio Busquets i Burgos,Phase 1: First Half (0-45'),Spain,Pablo Martín Páez Gavira,Sergio Busquets i Burgos,5,34,64.4795918367347,44.4,2
+Phase 1: First Half (0-45')_Pablo Martín Páez Gavira_to_Unai Simón Mendibil,Phase 1: First Half (0-45'),Spain,Pablo Martín Páez Gavira,Unai Simón Mendibil,2,34,70.92941176470588,59.80588235294118,1
+Phase 1: First Half (0-45')_Pablo Martín Páez Gavira_to_Unai Simón Mendibil,Phase 1: First Half (0-45'),Spain,Pablo Martín Páez Gavira,Unai Simón Mendibil,2,34,16.738095238095237,43.01904761904762,2
+Phase 1: First Half (0-45')_Pau Francisco Torres_to_Alejandro Balde Martínez,Phase 1: First Half (0-45'),Spain,Pau Francisco Torres,Alejandro Balde Martínez,22,108,51.589814814814815,26.73148148148148,1
+Phase 1: First Half (0-45')_Pau Francisco Torres_to_Alejandro Balde Martínez,Phase 1: First Half (0-45'),Spain,Pau Francisco Torres,Alejandro Balde Martínez,22,108,63.54489795918367,9.730612244897959,2
+Phase 1: First Half (0-45')_Pau Francisco Torres_to_Daniel Olmo Carvajal,Phase 1: First Half (0-45'),Spain,Pau Francisco Torres,Daniel Olmo Carvajal,5,108,51.589814814814815,26.73148148148148,1
+Phase 1: First Half (0-45')_Pau Francisco Torres_to_Daniel Olmo Carvajal,Phase 1: First Half (0-45'),Spain,Pau Francisco Torres,Daniel Olmo Carvajal,5,108,81.87647058823529,12.729411764705883,2
+Phase 1: First Half (0-45')_Pau Francisco Torres_to_Pedro González López,Phase 1: First Half (0-45'),Spain,Pau Francisco Torres,Pedro González López,13,108,51.589814814814815,26.73148148148148,1
+Phase 1: First Half (0-45')_Pau Francisco Torres_to_Pedro González López,Phase 1: First Half (0-45'),Spain,Pau Francisco Torres,Pedro González López,13,108,68.8093023255814,24.634883720930233,2
+Phase 1: First Half (0-45')_Pau Francisco Torres_to_Rodrigo Hernández Cascante,Phase 1: First Half (0-45'),Spain,Pau Francisco Torres,Rodrigo Hernández Cascante,43,108,51.589814814814815,26.73148148148148,1
+Phase 1: First Half (0-45')_Pau Francisco Torres_to_Rodrigo Hernández Cascante,Phase 1: First Half (0-45'),Spain,Pau Francisco Torres,Rodrigo Hernández Cascante,43,108,50.57913043478261,50.82,2
+Phase 1: First Half (0-45')_Pau Francisco Torres_to_Sergio Busquets i Burgos,Phase 1: First Half (0-45'),Spain,Pau Francisco Torres,Sergio Busquets i Burgos,12,108,51.589814814814815,26.73148148148148,1
+Phase 1: First Half (0-45')_Pau Francisco Torres_to_Sergio Busquets i Burgos,Phase 1: First Half (0-45'),Spain,Pau Francisco Torres,Sergio Busquets i Burgos,12,108,64.4795918367347,44.4,2
+Phase 1: First Half (0-45')_Pau Francisco Torres_to_Unai Simón Mendibil,Phase 1: First Half (0-45'),Spain,Pau Francisco Torres,Unai Simón Mendibil,6,108,51.589814814814815,26.73148148148148,1
+Phase 1: First Half (0-45')_Pau Francisco Torres_to_Unai Simón Mendibil,Phase 1: First Half (0-45'),Spain,Pau Francisco Torres,Unai Simón Mendibil,6,108,16.738095238095237,43.01904761904762,2
+Phase 1: First Half (0-45')_Pau Francisco Torres_to_Álvaro Borja Morata Martín,Phase 1: First Half (0-45'),Spain,Pau Francisco Torres,Álvaro Borja Morata Martín,5,108,51.589814814814815,26.73148148148148,1
+Phase 1: First Half (0-45')_Pau Francisco Torres_to_Álvaro Borja Morata Martín,Phase 1: First Half (0-45'),Spain,Pau Francisco Torres,Álvaro Borja Morata Martín,5,108,76.27272727272727,33.17272727272728,2
+Phase 1: First Half (0-45')_Pedro González López_to_Alejandro Balde Martínez,Phase 1: First Half (0-45'),Spain,Pedro González López,Alejandro Balde Martínez,10,43,68.8093023255814,24.634883720930233,1
+Phase 1: First Half (0-45')_Pedro González López_to_Alejandro Balde Martínez,Phase 1: First Half (0-45'),Spain,Pedro González López,Alejandro Balde Martínez,10,43,63.54489795918367,9.730612244897959,2
+Phase 1: First Half (0-45')_Pedro González López_to_César Azpilicueta Tanco,Phase 1: First Half (0-45'),Spain,Pedro González López,César Azpilicueta Tanco,2,43,68.8093023255814,24.634883720930233,1
+Phase 1: First Half (0-45')_Pedro González López_to_César Azpilicueta Tanco,Phase 1: First Half (0-45'),Spain,Pedro González López,César Azpilicueta Tanco,2,43,61.675714285714285,69.36571428571429,2
+Phase 1: First Half (0-45')_Pedro González López_to_Daniel Olmo Carvajal,Phase 1: First Half (0-45'),Spain,Pedro González López,Daniel Olmo Carvajal,3,43,68.8093023255814,24.634883720930233,1
+Phase 1: First Half (0-45')_Pedro González López_to_Daniel Olmo Carvajal,Phase 1: First Half (0-45'),Spain,Pedro González López,Daniel Olmo Carvajal,3,43,81.87647058823529,12.729411764705883,2
+Phase 1: First Half (0-45')_Pedro González López_to_Pablo Martín Páez Gavira,Phase 1: First Half (0-45'),Spain,Pedro González López,Pablo Martín Páez Gavira,4,43,68.8093023255814,24.634883720930233,1
+Phase 1: First Half (0-45')_Pedro González López_to_Pablo Martín Páez Gavira,Phase 1: First Half (0-45'),Spain,Pedro González López,Pablo Martín Páez Gavira,4,43,70.92941176470588,59.80588235294118,2
+Phase 1: First Half (0-45')_Pedro González López_to_Pau Francisco Torres,Phase 1: First Half (0-45'),Spain,Pedro González López,Pau Francisco Torres,6,43,68.8093023255814,24.634883720930233,1
+Phase 1: First Half (0-45')_Pedro González López_to_Pau Francisco Torres,Phase 1: First Half (0-45'),Spain,Pedro González López,Pau Francisco Torres,6,43,51.589814814814815,26.73148148148148,2
+Phase 1: First Half (0-45')_Pedro González López_to_Rodrigo Hernández Cascante,Phase 1: First Half (0-45'),Spain,Pedro González López,Rodrigo Hernández Cascante,10,43,68.8093023255814,24.634883720930233,1
+Phase 1: First Half (0-45')_Pedro González López_to_Rodrigo Hernández Cascante,Phase 1: First Half (0-45'),Spain,Pedro González López,Rodrigo Hernández Cascante,10,43,50.57913043478261,50.82,2
+Phase 1: First Half (0-45')_Pedro González López_to_Sergio Busquets i Burgos,Phase 1: First Half (0-45'),Spain,Pedro González López,Sergio Busquets i Burgos,5,43,68.8093023255814,24.634883720930233,1
+Phase 1: First Half (0-45')_Pedro González López_to_Sergio Busquets i Burgos,Phase 1: First Half (0-45'),Spain,Pedro González López,Sergio Busquets i Burgos,5,43,64.4795918367347,44.4,2
+Phase 1: First Half (0-45')_Pedro González López_to_Álvaro Borja Morata Martín,Phase 1: First Half (0-45'),Spain,Pedro González López,Álvaro Borja Morata Martín,2,43,68.8093023255814,24.634883720930233,1
+Phase 1: First Half (0-45')_Pedro González López_to_Álvaro Borja Morata Martín,Phase 1: First Half (0-45'),Spain,Pedro González López,Álvaro Borja Morata Martín,2,43,76.27272727272727,33.17272727272728,2
+Phase 1: First Half (0-45')_Rodrigo Hernández Cascante_to_Alejandro Balde Martínez,Phase 1: First Half (0-45'),Spain,Rodrigo Hernández Cascante,Alejandro Balde Martínez,2,115,50.57913043478261,50.82,1
+Phase 1: First Half (0-45')_Rodrigo Hernández Cascante_to_Alejandro Balde Martínez,Phase 1: First Half (0-45'),Spain,Rodrigo Hernández Cascante,Alejandro Balde Martínez,2,115,63.54489795918367,9.730612244897959,2
+Phase 1: First Half (0-45')_Rodrigo Hernández Cascante_to_César Azpilicueta Tanco,Phase 1: First Half (0-45'),Spain,Rodrigo Hernández Cascante,César Azpilicueta Tanco,32,115,50.57913043478261,50.82,1
+Phase 1: First Half (0-45')_Rodrigo Hernández Cascante_to_César Azpilicueta Tanco,Phase 1: First Half (0-45'),Spain,Rodrigo Hernández Cascante,César Azpilicueta Tanco,32,115,61.675714285714285,69.36571428571429,2
+Phase 1: First Half (0-45')_Rodrigo Hernández Cascante_to_Nicholas Williams Arthuer,Phase 1: First Half (0-45'),Spain,Rodrigo Hernández Cascante,Nicholas Williams Arthuer,2,115,50.57913043478261,50.82,1
+Phase 1: First Half (0-45')_Rodrigo Hernández Cascante_to_Nicholas Williams Arthuer,Phase 1: First Half (0-45'),Spain,Rodrigo Hernández Cascante,Nicholas Williams Arthuer,2,115,75.28181818181818,74.28181818181818,2
+Phase 1: First Half (0-45')_Rodrigo Hernández Cascante_to_Pablo Martín Páez Gavira,Phase 1: First Half (0-45'),Spain,Rodrigo Hernández Cascante,Pablo Martín Páez Gavira,10,115,50.57913043478261,50.82,1
+Phase 1: First Half (0-45')_Rodrigo Hernández Cascante_to_Pablo Martín Páez Gavira,Phase 1: First Half (0-45'),Spain,Rodrigo Hernández Cascante,Pablo Martín Páez Gavira,10,115,70.92941176470588,59.80588235294118,2
+Phase 1: First Half (0-45')_Rodrigo Hernández Cascante_to_Pau Francisco Torres,Phase 1: First Half (0-45'),Spain,Rodrigo Hernández Cascante,Pau Francisco Torres,50,115,50.57913043478261,50.82,1
+Phase 1: First Half (0-45')_Rodrigo Hernández Cascante_to_Pau Francisco Torres,Phase 1: First Half (0-45'),Spain,Rodrigo Hernández Cascante,Pau Francisco Torres,50,115,51.589814814814815,26.73148148148148,2
+Phase 1: First Half (0-45')_Rodrigo Hernández Cascante_to_Pedro González López,Phase 1: First Half (0-45'),Spain,Rodrigo Hernández Cascante,Pedro González López,4,115,50.57913043478261,50.82,1
+Phase 1: First Half (0-45')_Rodrigo Hernández Cascante_to_Pedro González López,Phase 1: First Half (0-45'),Spain,Rodrigo Hernández Cascante,Pedro González López,4,115,68.8093023255814,24.634883720930233,2
+Phase 1: First Half (0-45')_Rodrigo Hernández Cascante_to_Sergio Busquets i Burgos,Phase 1: First Half (0-45'),Spain,Rodrigo Hernández Cascante,Sergio Busquets i Burgos,10,115,50.57913043478261,50.82,1
+Phase 1: First Half (0-45')_Rodrigo Hernández Cascante_to_Sergio Busquets i Burgos,Phase 1: First Half (0-45'),Spain,Rodrigo Hernández Cascante,Sergio Busquets i Burgos,10,115,64.4795918367347,44.4,2
+Phase 1: First Half (0-45')_Rodrigo Hernández Cascante_to_Unai Simón Mendibil,Phase 1: First Half (0-45'),Spain,Rodrigo Hernández Cascante,Unai Simón Mendibil,3,115,50.57913043478261,50.82,1
+Phase 1: First Half (0-45')_Rodrigo Hernández Cascante_to_Unai Simón Mendibil,Phase 1: First Half (0-45'),Spain,Rodrigo Hernández Cascante,Unai Simón Mendibil,3,115,16.738095238095237,43.01904761904762,2
+Phase 1: First Half (0-45')_Sergio Busquets i Burgos_to_César Azpilicueta Tanco,Phase 1: First Half (0-45'),Spain,Sergio Busquets i Burgos,César Azpilicueta Tanco,5,49,64.4795918367347,44.4,1
+Phase 1: First Half (0-45')_Sergio Busquets i Burgos_to_César Azpilicueta Tanco,Phase 1: First Half (0-45'),Spain,Sergio Busquets i Burgos,César Azpilicueta Tanco,5,49,61.675714285714285,69.36571428571429,2
+Phase 1: First Half (0-45')_Sergio Busquets i Burgos_to_Daniel Olmo Carvajal,Phase 1: First Half (0-45'),Spain,Sergio Busquets i Burgos,Daniel Olmo Carvajal,3,49,64.4795918367347,44.4,1
+Phase 1: First Half (0-45')_Sergio Busquets i Burgos_to_Daniel Olmo Carvajal,Phase 1: First Half (0-45'),Spain,Sergio Busquets i Burgos,Daniel Olmo Carvajal,3,49,81.87647058823529,12.729411764705883,2
+Phase 1: First Half (0-45')_Sergio Busquets i Burgos_to_Pablo Martín Páez Gavira,Phase 1: First Half (0-45'),Spain,Sergio Busquets i Burgos,Pablo Martín Páez Gavira,3,49,64.4795918367347,44.4,1
+Phase 1: First Half (0-45')_Sergio Busquets i Burgos_to_Pablo Martín Páez Gavira,Phase 1: First Half (0-45'),Spain,Sergio Busquets i Burgos,Pablo Martín Páez Gavira,3,49,70.92941176470588,59.80588235294118,2
+Phase 1: First Half (0-45')_Sergio Busquets i Burgos_to_Pau Francisco Torres,Phase 1: First Half (0-45'),Spain,Sergio Busquets i Burgos,Pau Francisco Torres,9,49,64.4795918367347,44.4,1
+Phase 1: First Half (0-45')_Sergio Busquets i Burgos_to_Pau Francisco Torres,Phase 1: First Half (0-45'),Spain,Sergio Busquets i Burgos,Pau Francisco Torres,9,49,51.589814814814815,26.73148148148148,2
+Phase 1: First Half (0-45')_Sergio Busquets i Burgos_to_Pedro González López,Phase 1: First Half (0-45'),Spain,Sergio Busquets i Burgos,Pedro González López,9,49,64.4795918367347,44.4,1
+Phase 1: First Half (0-45')_Sergio Busquets i Burgos_to_Pedro González López,Phase 1: First Half (0-45'),Spain,Sergio Busquets i Burgos,Pedro González López,9,49,68.8093023255814,24.634883720930233,2
+Phase 1: First Half (0-45')_Sergio Busquets i Burgos_to_Rodrigo Hernández Cascante,Phase 1: First Half (0-45'),Spain,Sergio Busquets i Burgos,Rodrigo Hernández Cascante,13,49,64.4795918367347,44.4,1
+Phase 1: First Half (0-45')_Sergio Busquets i Burgos_to_Rodrigo Hernández Cascante,Phase 1: First Half (0-45'),Spain,Sergio Busquets i Burgos,Rodrigo Hernández Cascante,13,49,50.57913043478261,50.82,2
+Phase 1: First Half (0-45')_Sergio Busquets i Burgos_to_Unai Simón Mendibil,Phase 1: First Half (0-45'),Spain,Sergio Busquets i Burgos,Unai Simón Mendibil,2,49,64.4795918367347,44.4,1
+Phase 1: First Half (0-45')_Sergio Busquets i Burgos_to_Unai Simón Mendibil,Phase 1: First Half (0-45'),Spain,Sergio Busquets i Burgos,Unai Simón Mendibil,2,49,16.738095238095237,43.01904761904762,2
+Phase 1: First Half (0-45')_Sergio Busquets i Burgos_to_Álvaro Borja Morata Martín,Phase 1: First Half (0-45'),Spain,Sergio Busquets i Burgos,Álvaro Borja Morata Martín,3,49,64.4795918367347,44.4,1
+Phase 1: First Half (0-45')_Sergio Busquets i Burgos_to_Álvaro Borja Morata Martín,Phase 1: First Half (0-45'),Spain,Sergio Busquets i Burgos,Álvaro Borja Morata Martín,3,49,76.27272727272727,33.17272727272728,2
+Phase 1: First Half (0-45')_Shogo Taniguchi_to_Daichi Kamada,Phase 1: First Half (0-45'),Japan,Shogo Taniguchi,Daichi Kamada,2,15,46.39333333333333,15.266666666666667,1
+Phase 1: First Half (0-45')_Shogo Taniguchi_to_Daichi Kamada,Phase 1: First Half (0-45'),Japan,Shogo Taniguchi,Daichi Kamada,2,15,66.94285714285715,26.0,2
+Phase 1: First Half (0-45')_Shogo Taniguchi_to_Hidemasa Morita,Phase 1: First Half (0-45'),Japan,Shogo Taniguchi,Hidemasa Morita,7,15,46.39333333333333,15.266666666666667,1
+Phase 1: First Half (0-45')_Shogo Taniguchi_to_Hidemasa Morita,Phase 1: First Half (0-45'),Japan,Shogo Taniguchi,Hidemasa Morita,7,15,54.88666666666666,29.220000000000002,2
+Phase 1: First Half (0-45')_Shogo Taniguchi_to_Yuto Nagatomo,Phase 1: First Half (0-45'),Japan,Shogo Taniguchi,Yuto Nagatomo,2,15,46.39333333333333,15.266666666666667,1
+Phase 1: First Half (0-45')_Shogo Taniguchi_to_Yuto Nagatomo,Phase 1: First Half (0-45'),Japan,Shogo Taniguchi,Yuto Nagatomo,2,15,69.75714285714285,5.7,2
+Phase 1: First Half (0-45')_Shūichi Gonda_to_Ko Itakura,Phase 1: First Half (0-45'),Japan,Shūichi Gonda,Ko Itakura,2,6,9.85,38.550000000000004,1
+Phase 1: First Half (0-45')_Shūichi Gonda_to_Ko Itakura,Phase 1: First Half (0-45'),Japan,Shūichi Gonda,Ko Itakura,2,6,31.95,53.83,2
+Phase 1: First Half (0-45')_Shūichi Gonda_to_Yuto Nagatomo,Phase 1: First Half (0-45'),Japan,Shūichi Gonda,Yuto Nagatomo,2,6,9.85,38.550000000000004,1
+Phase 1: First Half (0-45')_Shūichi Gonda_to_Yuto Nagatomo,Phase 1: First Half (0-45'),Japan,Shūichi Gonda,Yuto Nagatomo,2,6,69.75714285714285,5.7,2
+Phase 1: First Half (0-45')_Takefusa Kubo_to_Ao Tanaka,Phase 1: First Half (0-45'),Japan,Takefusa Kubo,Ao Tanaka,2,6,83.48333333333333,29.816666666666666,1
+Phase 1: First Half (0-45')_Takefusa Kubo_to_Ao Tanaka,Phase 1: First Half (0-45'),Japan,Takefusa Kubo,Ao Tanaka,2,6,55.87777777777777,48.86666666666667,2
+Phase 1: First Half (0-45')_Takefusa Kubo_to_Yuto Nagatomo,Phase 1: First Half (0-45'),Japan,Takefusa Kubo,Yuto Nagatomo,2,6,83.48333333333333,29.816666666666666,1
+Phase 1: First Half (0-45')_Takefusa Kubo_to_Yuto Nagatomo,Phase 1: First Half (0-45'),Japan,Takefusa Kubo,Yuto Nagatomo,2,6,69.75714285714285,5.7,2
+Phase 1: First Half (0-45')_Unai Simón Mendibil_to_César Azpilicueta Tanco,Phase 1: First Half (0-45'),Spain,Unai Simón Mendibil,César Azpilicueta Tanco,3,21,16.738095238095237,43.01904761904762,1
+Phase 1: First Half (0-45')_Unai Simón Mendibil_to_César Azpilicueta Tanco,Phase 1: First Half (0-45'),Spain,Unai Simón Mendibil,César Azpilicueta Tanco,3,21,61.675714285714285,69.36571428571429,2
+Phase 1: First Half (0-45')_Unai Simón Mendibil_to_Pau Francisco Torres,Phase 1: First Half (0-45'),Spain,Unai Simón Mendibil,Pau Francisco Torres,10,21,16.738095238095237,43.01904761904762,1
+Phase 1: First Half (0-45')_Unai Simón Mendibil_to_Pau Francisco Torres,Phase 1: First Half (0-45'),Spain,Unai Simón Mendibil,Pau Francisco Torres,10,21,51.589814814814815,26.73148148148148,2
+Phase 1: First Half (0-45')_Unai Simón Mendibil_to_Rodrigo Hernández Cascante,Phase 1: First Half (0-45'),Spain,Unai Simón Mendibil,Rodrigo Hernández Cascante,8,21,16.738095238095237,43.01904761904762,1
+Phase 1: First Half (0-45')_Unai Simón Mendibil_to_Rodrigo Hernández Cascante,Phase 1: First Half (0-45'),Spain,Unai Simón Mendibil,Rodrigo Hernández Cascante,8,21,50.57913043478261,50.82,2
+Phase 1: First Half (0-45')_Yuto Nagatomo_to_Hidemasa Morita,Phase 1: First Half (0-45'),Japan,Yuto Nagatomo,Hidemasa Morita,2,7,69.75714285714285,5.7,1
+Phase 1: First Half (0-45')_Yuto Nagatomo_to_Hidemasa Morita,Phase 1: First Half (0-45'),Japan,Yuto Nagatomo,Hidemasa Morita,2,7,54.88666666666666,29.220000000000002,2
+Phase 1: First Half (0-45')_Yuto Nagatomo_to_Shogo Taniguchi,Phase 1: First Half (0-45'),Japan,Yuto Nagatomo,Shogo Taniguchi,2,7,69.75714285714285,5.7,1
+Phase 1: First Half (0-45')_Yuto Nagatomo_to_Shogo Taniguchi,Phase 1: First Half (0-45'),Japan,Yuto Nagatomo,Shogo Taniguchi,2,7,46.39333333333333,15.266666666666667,2
+Phase 1: First Half (0-45')_Yuto Nagatomo_to_Takefusa Kubo,Phase 1: First Half (0-45'),Japan,Yuto Nagatomo,Takefusa Kubo,2,7,69.75714285714285,5.7,1
+Phase 1: First Half (0-45')_Yuto Nagatomo_to_Takefusa Kubo,Phase 1: First Half (0-45'),Japan,Yuto Nagatomo,Takefusa Kubo,2,7,83.48333333333333,29.816666666666666,2
+Phase 1: First Half (0-45')_Álvaro Borja Morata Martín_to_César Azpilicueta Tanco,Phase 1: First Half (0-45'),Spain,Álvaro Borja Morata Martín,César Azpilicueta Tanco,2,11,76.27272727272727,33.17272727272728,1
+Phase 1: First Half (0-45')_Álvaro Borja Morata Martín_to_César Azpilicueta Tanco,Phase 1: First Half (0-45'),Spain,Álvaro Borja Morata Martín,César Azpilicueta Tanco,2,11,61.675714285714285,69.36571428571429,2
+Phase 1: First Half (0-45')_Álvaro Borja Morata Martín_to_Nicholas Williams Arthuer,Phase 1: First Half (0-45'),Spain,Álvaro Borja Morata Martín,Nicholas Williams Arthuer,2,11,76.27272727272727,33.17272727272728,1
+Phase 1: First Half (0-45')_Álvaro Borja Morata Martín_to_Nicholas Williams Arthuer,Phase 1: First Half (0-45'),Spain,Álvaro Borja Morata Martín,Nicholas Williams Arthuer,2,11,75.28181818181818,74.28181818181818,2
+Phase 1: First Half (0-45')_Álvaro Borja Morata Martín_to_Pau Francisco Torres,Phase 1: First Half (0-45'),Spain,Álvaro Borja Morata Martín,Pau Francisco Torres,2,11,76.27272727272727,33.17272727272728,1
+Phase 1: First Half (0-45')_Álvaro Borja Morata Martín_to_Pau Francisco Torres,Phase 1: First Half (0-45'),Spain,Álvaro Borja Morata Martín,Pau Francisco Torres,2,11,51.589814814814815,26.73148148148148,2
+Phase 1: First Half (0-45')_Álvaro Borja Morata Martín_to_Pedro González López,Phase 1: First Half (0-45'),Spain,Álvaro Borja Morata Martín,Pedro González López,2,11,76.27272727272727,33.17272727272728,1
+Phase 1: First Half (0-45')_Álvaro Borja Morata Martín_to_Pedro González López,Phase 1: First Half (0-45'),Spain,Álvaro Borja Morata Martín,Pedro González López,2,11,68.8093023255814,24.634883720930233,2
+Phase 1: First Half (0-45')_Álvaro Borja Morata Martín_to_Rodrigo Hernández Cascante,Phase 1: First Half (0-45'),Spain,Álvaro Borja Morata Martín,Rodrigo Hernández Cascante,2,11,76.27272727272727,33.17272727272728,1
+Phase 1: First Half (0-45')_Álvaro Borja Morata Martín_to_Rodrigo Hernández Cascante,Phase 1: First Half (0-45'),Spain,Álvaro Borja Morata Martín,Rodrigo Hernández Cascante,2,11,50.57913043478261,50.82,2
+Phase 2: HT Tactical Shift (46-61')_Alejandro Balde Martínez_to_Pau Francisco Torres,Phase 2: HT Tactical Shift (46-61'),Spain,Alejandro Balde Martínez,Pau Francisco Torres,3,6,52.78333333333333,4.683333333333334,1
+Phase 2: HT Tactical Shift (46-61')_Alejandro Balde Martínez_to_Pau Francisco Torres,Phase 2: HT Tactical Shift (46-61'),Spain,Alejandro Balde Martínez,Pau Francisco Torres,3,6,52.59285714285714,25.678571428571427,2
+Phase 2: HT Tactical Shift (46-61')_Daichi Kamada_to_Shogo Taniguchi,Phase 2: HT Tactical Shift (46-61'),Japan,Daichi Kamada,Shogo Taniguchi,2,2,53.1,31.25,1
+Phase 2: HT Tactical Shift (46-61')_Daichi Kamada_to_Shogo Taniguchi,Phase 2: HT Tactical Shift (46-61'),Japan,Daichi Kamada,Shogo Taniguchi,2,2,29.325000000000003,12.775,2
+Phase 2: HT Tactical Shift (46-61')_Daniel Carvajal Ramos_to_Ferrán Torres García,Phase 2: HT Tactical Shift (46-61'),Spain,Daniel Carvajal Ramos,Ferrán Torres García,2,10,63.92999999999999,67.85,1
+Phase 2: HT Tactical Shift (46-61')_Daniel Carvajal Ramos_to_Ferrán Torres García,Phase 2: HT Tactical Shift (46-61'),Spain,Daniel Carvajal Ramos,Ferrán Torres García,2,10,80.2,69.86666666666666,2
+Phase 2: HT Tactical Shift (46-61')_Daniel Carvajal Ramos_to_Pau Francisco Torres,Phase 2: HT Tactical Shift (46-61'),Spain,Daniel Carvajal Ramos,Pau Francisco Torres,2,10,63.92999999999999,67.85,1
+Phase 2: HT Tactical Shift (46-61')_Daniel Carvajal Ramos_to_Pau Francisco Torres,Phase 2: HT Tactical Shift (46-61'),Spain,Daniel Carvajal Ramos,Pau Francisco Torres,2,10,52.59285714285714,25.678571428571427,2
+Phase 2: HT Tactical Shift (46-61')_Daniel Carvajal Ramos_to_Rodrigo Hernández Cascante,Phase 2: HT Tactical Shift (46-61'),Spain,Daniel Carvajal Ramos,Rodrigo Hernández Cascante,5,10,63.92999999999999,67.85,1
+Phase 2: HT Tactical Shift (46-61')_Daniel Carvajal Ramos_to_Rodrigo Hernández Cascante,Phase 2: HT Tactical Shift (46-61'),Spain,Daniel Carvajal Ramos,Rodrigo Hernández Cascante,5,10,51.37777777777777,50.56666666666667,2
+Phase 2: HT Tactical Shift (46-61')_Daniel Olmo Carvajal_to_Alejandro Balde Martínez,Phase 2: HT Tactical Shift (46-61'),Spain,Daniel Olmo Carvajal,Alejandro Balde Martínez,2,3,68.93333333333334,11.433333333333332,1
+Phase 2: HT Tactical Shift (46-61')_Daniel Olmo Carvajal_to_Alejandro Balde Martínez,Phase 2: HT Tactical Shift (46-61'),Spain,Daniel Olmo Carvajal,Alejandro Balde Martínez,2,3,52.78333333333333,4.683333333333334,2
+Phase 2: HT Tactical Shift (46-61')_Ferrán Torres García_to_Daniel Carvajal Ramos,Phase 2: HT Tactical Shift (46-61'),Spain,Ferrán Torres García,Daniel Carvajal Ramos,2,3,80.2,69.86666666666666,1
+Phase 2: HT Tactical Shift (46-61')_Ferrán Torres García_to_Daniel Carvajal Ramos,Phase 2: HT Tactical Shift (46-61'),Spain,Ferrán Torres García,Daniel Carvajal Ramos,2,3,63.92999999999999,67.85,2
+Phase 2: HT Tactical Shift (46-61')_Hidemasa Morita_to_Maya Yoshida,Phase 2: HT Tactical Shift (46-61'),Japan,Hidemasa Morita,Maya Yoshida,2,4,45.1,41.25,1
+Phase 2: HT Tactical Shift (46-61')_Hidemasa Morita_to_Maya Yoshida,Phase 2: HT Tactical Shift (46-61'),Japan,Hidemasa Morita,Maya Yoshida,2,4,31.55,58.6,2
+Phase 2: HT Tactical Shift (46-61')_Junya Ito_to_Ritsu Doan,Phase 2: HT Tactical Shift (46-61'),Japan,Junya Ito,Ritsu Doan,2,4,73.375,63.525,1
+Phase 2: HT Tactical Shift (46-61')_Junya Ito_to_Ritsu Doan,Phase 2: HT Tactical Shift (46-61'),Japan,Junya Ito,Ritsu Doan,2,4,108.7,57.8,2
+Phase 2: HT Tactical Shift (46-61')_Maya Yoshida_to_Shūichi Gonda,Phase 2: HT Tactical Shift (46-61'),Japan,Maya Yoshida,Shūichi Gonda,2,6,31.55,58.6,1
+Phase 2: HT Tactical Shift (46-61')_Maya Yoshida_to_Shūichi Gonda,Phase 2: HT Tactical Shift (46-61'),Japan,Maya Yoshida,Shūichi Gonda,2,6,17.05,35.225,2
+Phase 2: HT Tactical Shift (46-61')_Pablo Martín Páez Gavira_to_Pau Francisco Torres,Phase 2: HT Tactical Shift (46-61'),Spain,Pablo Martín Páez Gavira,Pau Francisco Torres,4,4,67.475,44.975,1
+Phase 2: HT Tactical Shift (46-61')_Pablo Martín Páez Gavira_to_Pau Francisco Torres,Phase 2: HT Tactical Shift (46-61'),Spain,Pablo Martín Páez Gavira,Pau Francisco Torres,4,4,52.59285714285714,25.678571428571427,2
+Phase 2: HT Tactical Shift (46-61')_Pau Francisco Torres_to_Alejandro Balde Martínez,Phase 2: HT Tactical Shift (46-61'),Spain,Pau Francisco Torres,Alejandro Balde Martínez,2,14,52.59285714285714,25.678571428571427,1
+Phase 2: HT Tactical Shift (46-61')_Pau Francisco Torres_to_Alejandro Balde Martínez,Phase 2: HT Tactical Shift (46-61'),Spain,Pau Francisco Torres,Alejandro Balde Martínez,2,14,52.78333333333333,4.683333333333334,2
+Phase 2: HT Tactical Shift (46-61')_Pau Francisco Torres_to_Pedro González López,Phase 2: HT Tactical Shift (46-61'),Spain,Pau Francisco Torres,Pedro González López,2,14,52.59285714285714,25.678571428571427,1
+Phase 2: HT Tactical Shift (46-61')_Pau Francisco Torres_to_Pedro González López,Phase 2: HT Tactical Shift (46-61'),Spain,Pau Francisco Torres,Pedro González López,2,14,75.97999999999999,33.160000000000004,2
+Phase 2: HT Tactical Shift (46-61')_Pau Francisco Torres_to_Rodrigo Hernández Cascante,Phase 2: HT Tactical Shift (46-61'),Spain,Pau Francisco Torres,Rodrigo Hernández Cascante,6,14,52.59285714285714,25.678571428571427,1
+Phase 2: HT Tactical Shift (46-61')_Pau Francisco Torres_to_Rodrigo Hernández Cascante,Phase 2: HT Tactical Shift (46-61'),Spain,Pau Francisco Torres,Rodrigo Hernández Cascante,6,14,51.37777777777777,50.56666666666667,2
+Phase 2: HT Tactical Shift (46-61')_Pau Francisco Torres_to_Unai Simón Mendibil,Phase 2: HT Tactical Shift (46-61'),Spain,Pau Francisco Torres,Unai Simón Mendibil,2,14,52.59285714285714,25.678571428571427,1
+Phase 2: HT Tactical Shift (46-61')_Pau Francisco Torres_to_Unai Simón Mendibil,Phase 2: HT Tactical Shift (46-61'),Spain,Pau Francisco Torres,Unai Simón Mendibil,2,14,9.72,38.0,2
+Phase 2: HT Tactical Shift (46-61')_Pedro González López_to_Rodrigo Hernández Cascante,Phase 2: HT Tactical Shift (46-61'),Spain,Pedro González López,Rodrigo Hernández Cascante,2,5,75.97999999999999,33.160000000000004,1
+Phase 2: HT Tactical Shift (46-61')_Pedro González López_to_Rodrigo Hernández Cascante,Phase 2: HT Tactical Shift (46-61'),Spain,Pedro González López,Rodrigo Hernández Cascante,2,5,51.37777777777777,50.56666666666667,2
+Phase 2: HT Tactical Shift (46-61')_Rodrigo Hernández Cascante_to_Daniel Carvajal Ramos,Phase 2: HT Tactical Shift (46-61'),Spain,Rodrigo Hernández Cascante,Daniel Carvajal Ramos,6,18,51.37777777777777,50.56666666666667,1
+Phase 2: HT Tactical Shift (46-61')_Rodrigo Hernández Cascante_to_Daniel Carvajal Ramos,Phase 2: HT Tactical Shift (46-61'),Spain,Rodrigo Hernández Cascante,Daniel Carvajal Ramos,6,18,63.92999999999999,67.85,2
+Phase 2: HT Tactical Shift (46-61')_Rodrigo Hernández Cascante_to_Pau Francisco Torres,Phase 2: HT Tactical Shift (46-61'),Spain,Rodrigo Hernández Cascante,Pau Francisco Torres,6,18,51.37777777777777,50.56666666666667,1
+Phase 2: HT Tactical Shift (46-61')_Rodrigo Hernández Cascante_to_Pau Francisco Torres,Phase 2: HT Tactical Shift (46-61'),Spain,Rodrigo Hernández Cascante,Pau Francisco Torres,6,18,52.59285714285714,25.678571428571427,2
+Phase 2: HT Tactical Shift (46-61')_Rodrigo Hernández Cascante_to_Unai Simón Mendibil,Phase 2: HT Tactical Shift (46-61'),Spain,Rodrigo Hernández Cascante,Unai Simón Mendibil,2,18,51.37777777777777,50.56666666666667,1
+Phase 2: HT Tactical Shift (46-61')_Rodrigo Hernández Cascante_to_Unai Simón Mendibil,Phase 2: HT Tactical Shift (46-61'),Spain,Rodrigo Hernández Cascante,Unai Simón Mendibil,2,18,9.72,38.0,2
+Phase 2: HT Tactical Shift (46-61')_Shogo Taniguchi_to_Hidemasa Morita,Phase 2: HT Tactical Shift (46-61'),Japan,Shogo Taniguchi,Hidemasa Morita,2,8,29.325000000000003,12.775,1
+Phase 2: HT Tactical Shift (46-61')_Shogo Taniguchi_to_Hidemasa Morita,Phase 2: HT Tactical Shift (46-61'),Japan,Shogo Taniguchi,Hidemasa Morita,2,8,45.1,41.25,2
+Phase 2: HT Tactical Shift (46-61')_Shogo Taniguchi_to_Kaoru Mitoma,Phase 2: HT Tactical Shift (46-61'),Japan,Shogo Taniguchi,Kaoru Mitoma,3,8,29.325000000000003,12.775,1
+Phase 2: HT Tactical Shift (46-61')_Shogo Taniguchi_to_Kaoru Mitoma,Phase 2: HT Tactical Shift (46-61'),Japan,Shogo Taniguchi,Kaoru Mitoma,3,8,73.76666666666667,16.933333333333334,2
+Phase 2: HT Tactical Shift (46-61')_Shūichi Gonda_to_Maya Yoshida,Phase 2: HT Tactical Shift (46-61'),Japan,Shūichi Gonda,Maya Yoshida,2,4,17.05,35.225,1
+Phase 2: HT Tactical Shift (46-61')_Shūichi Gonda_to_Maya Yoshida,Phase 2: HT Tactical Shift (46-61'),Japan,Shūichi Gonda,Maya Yoshida,2,4,31.55,58.6,2
+Phase 2: HT Tactical Shift (46-61')_Unai Simón Mendibil_to_Rodrigo Hernández Cascante,Phase 2: HT Tactical Shift (46-61'),Spain,Unai Simón Mendibil,Rodrigo Hernández Cascante,3,5,9.72,38.0,1
+Phase 2: HT Tactical Shift (46-61')_Unai Simón Mendibil_to_Rodrigo Hernández Cascante,Phase 2: HT Tactical Shift (46-61'),Spain,Unai Simón Mendibil,Rodrigo Hernández Cascante,3,5,51.37777777777777,50.56666666666667,2

@@ -1,0 +1,33 @@
+team,player,jersey_number,primary_position,start_minute,end_minute,duration_minutes,role_status
+Japan,Shogo Taniguchi,3,Left Center Back,0,97,97,Starter
+Japan,Ko Itakura,4,Right Center Back,0,97,97,Starter
+Japan,Yuto Nagatomo,5,Left Wing Back,0,45,45,Starter
+Japan,Takefusa Kubo,11,Right Wing,0,45,45,Starter
+Japan,Shūichi Gonda,12,Goalkeeper,0,97,97,Starter
+Japan,Hidemasa Morita,13,Left Defensive Midfield,0,97,97,Starter
+Japan,Junya Ito,14,Right Wing Back,0,97,97,Starter
+Japan,Daichi Kamada,15,Left Wing,0,68,68,Starter
+Japan,Ao Tanaka,17,Right Defensive Midfield,0,86,86,Starter
+Japan,Maya Yoshida,22,Center Back,0,97,97,Starter
+Japan,Daizen Maeda,25,Center Forward,0,61,61,Starter
+Japan,Ritsu Doan,8,Right Wing,46,97,51,Substitute
+Japan,Kaoru Mitoma,9,Left Wing Back,46,97,51,Substitute
+Japan,Takuma Asano,18,Center Forward,61,97,36,Substitute
+Japan,Takehiro Tomiyasu,16,Left Wing,68,97,29,Substitute
+Japan,Wataru Endo,6,Right Defensive Midfield,86,97,11,Substitute
+Spain,César Azpilicueta Tanco,2,Right Back,0,45,45,Starter
+Spain,Pau Francisco Torres,4,Left Center Back,0,97,97,Starter
+Spain,Sergio Busquets i Burgos,5,Center Defensive Midfield,0,97,97,Starter
+Spain,Álvaro Borja Morata Martín,7,Center Forward,0,56,56,Starter
+Spain,Pablo Martín Páez Gavira,9,Right Center Midfield,0,67,67,Starter
+Spain,Nicholas Williams Arthuer,12,Right Wing,0,56,56,Starter
+Spain,Alejandro Balde Martínez,14,Left Back,0,68,68,Starter
+Spain,Rodrigo Hernández Cascante,16,Right Center Back,0,97,97,Starter
+Spain,Daniel Olmo Carvajal,21,Left Wing,0,97,97,Starter
+Spain,Unai Simón Mendibil,23,Goalkeeper,0,97,97,Starter
+Spain,Pedro González López,26,Left Center Midfield,0,97,97,Starter
+Spain,Daniel Carvajal Ramos,20,Right Back,46,97,51,Substitute
+Spain,Marco Asensio Willemsen,10,Center Forward,56,97,41,Substitute
+Spain,Ferrán Torres García,11,Right Wing,56,97,41,Substitute
+Spain,Anssumane Fati,25,Right Center Midfield,67,97,30,Substitute
+Spain,Jordi Alba Ramos,18,Left Back,68,97,29,Substitute

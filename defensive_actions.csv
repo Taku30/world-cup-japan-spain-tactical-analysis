@@ -1,0 +1,500 @@
+id,period,tactical_phase,minute,second,team,player,action_type,pitch_third,loc_x,loc_y
+b87fd819-c029-49ca-bb29-827ba934c78f,1,Phase 1: First Half (0-45'),0,6,Japan,Yuto Nagatomo,Clearance,Defensive Third (0-40y),35.5,8.5
+211c992b-9fac-4eb6-b11d-4b95d89b382d,1,Phase 1: First Half (0-45'),0,15,Japan,Daizen Maeda,Pressure,Attacking Third (80-120y),98.4,14.9
+eb3224f3-65ad-4e21-a98a-044a7f80073f,1,Phase 1: First Half (0-45'),0,40,Japan,Daichi Kamada,Pressure,Middle Third (40-80y),58.7,13.0
+ee129f8d-a954-4cce-844d-37656594a2e1,1,Phase 1: First Half (0-45'),0,45,Japan,Takefusa Kubo,Pressure,Middle Third (40-80y),65.0,67.7
+42140ead-db64-42b5-a2a4-6b37098b032a,1,Phase 1: First Half (0-45'),0,47,Japan,Daichi Kamada,Pressure,Middle Third (40-80y),74.8,29.9
+f80512d4-ffd8-4ed0-b5d5-de2128feab85,1,Phase 1: First Half (0-45'),0,56,Japan,Daizen Maeda,Pressure,Middle Third (40-80y),75.0,26.3
+9732d848-3324-4243-866c-1fd2e298c5cf,1,Phase 1: First Half (0-45'),1,3,Japan,Ao Tanaka,Pressure,Middle Third (40-80y),45.8,51.1
+77ca06e4-b2d1-4e08-82e0-1497cdb93616,1,Phase 1: First Half (0-45'),1,26,Japan,Takefusa Kubo,Pressure,Middle Third (40-80y),57.6,66.2
+2eb8afa8-c92b-4113-95da-2487ff591ff1,1,Phase 1: First Half (0-45'),1,30,Japan,Shogo Taniguchi,Pressure,Middle Third (40-80y),43.6,22.4
+2eb5619d-3a93-4980-b889-96295fa21cdf,1,Phase 1: First Half (0-45'),2,6,Spain,Pedro González López,Pressure,Middle Third (40-80y),69.6,24.1
+6bbaad0d-a334-4b8a-9f4e-f2b4495192e5,1,Phase 1: First Half (0-45'),2,7,Japan,Takefusa Kubo,Pressure,Middle Third (40-80y),62.7,62.8
+b9473b99-34ad-492a-be2d-ef58643100d6,1,Phase 1: First Half (0-45'),2,7,Spain,Alejandro Balde Martínez,Ball Recovery,Middle Third (40-80y),54.9,18.6
+2de61792-6f2b-4004-8ddf-c2340ebd2f42,1,Phase 1: First Half (0-45'),2,14,Japan,Daizen Maeda,Pressure,Attacking Third (80-120y),106.3,62.2
+0df72b79-59d1-4589-a529-c34c82b663d3,1,Phase 1: First Half (0-45'),2,17,Japan,Junya Ito,Pressure,Middle Third (40-80y),74.3,72.1
+7d9b8ffc-cd2b-4023-a4f6-63de1482f89a,1,Phase 1: First Half (0-45'),2,29,Spain,Álvaro Borja Morata Martín,Pressure,Attacking Third (80-120y),81.0,30.2
+8ebd1a3f-f9b0-4dcd-a408-9964bd5ba710,1,Phase 1: First Half (0-45'),2,46,Japan,Shogo Taniguchi,Pressure,Defensive Third (0-40y),30.0,3.9
+5f1b37fa-f464-4f0b-819a-1b7a47f2746c,1,Phase 1: First Half (0-45'),3,19,Japan,Daichi Kamada,Pressure,Middle Third (40-80y),68.0,7.5
+b6f7de9a-a573-4da8-8dcc-dce2ec7437b0,1,Phase 1: First Half (0-45'),3,35,Japan,Yuto Nagatomo,Pressure,Middle Third (40-80y),41.0,3.0
+cfcf95af-4b7a-49c4-80ea-80a9c9d217af,1,Phase 1: First Half (0-45'),3,46,Japan,Takefusa Kubo,Pressure,Middle Third (40-80y),63.8,60.9
+18dfbed4-6d59-4a24-ac0a-689fd8ec949b,1,Phase 1: First Half (0-45'),3,53,Japan,Daichi Kamada,Pressure,Middle Third (40-80y),52.1,13.8
+1bb42e0f-7dae-414a-a494-a2c4cdf81f5c,1,Phase 1: First Half (0-45'),4,0,Japan,Maya Yoshida,Interception,Defensive Third (0-40y),37.1,52.5
+9e424658-3593-4604-8dc1-6cad79d4ddf1,1,Phase 1: First Half (0-45'),4,4,Spain,Pau Francisco Torres,Ball Recovery,Middle Third (40-80y),44.5,22.1
+faefd2cb-1062-4287-a9a2-c82adbf8b434,1,Phase 1: First Half (0-45'),4,4,Japan,Daizen Maeda,Pressure,Middle Third (40-80y),74.6,55.2
+873b532a-6230-4a35-8c63-b1a85ef05ea4,1,Phase 1: First Half (0-45'),4,5,Japan,Daizen Maeda,Block,Middle Third (40-80y),75.6,58.0
+d8bd3787-9ae8-4c1f-bcde-dd4e3ef6521c,1,Phase 1: First Half (0-45'),4,6,Japan,Daizen Maeda,Ball Recovery,Middle Third (40-80y),79.0,64.6
+ea777ed4-086f-44d4-8288-b6b96a8ff02b,1,Phase 1: First Half (0-45'),4,9,Spain,Pau Francisco Torres,Pressure,Defensive Third (0-40y),20.9,5.7
+ef66528b-b476-4c1b-a073-8fd584b99c56,1,Phase 1: First Half (0-45'),4,13,Japan,Daichi Kamada,Pressure,Attacking Third (80-120y),110.3,49.4
+8ca321f8-7afd-4049-9f1d-eef1d21c93c6,1,Phase 1: First Half (0-45'),4,13,Spain,Rodrigo Hernández Cascante,Interception,Defensive Third (0-40y),8.2,32.0
+6f724ce2-1fdb-4ab7-8f02-90695d94388d,1,Phase 1: First Half (0-45'),4,17,Japan,Hidemasa Morita,Pressure,Attacking Third (80-120y),105.2,29.3
+8f53b52a-aaa7-45be-979e-279525ef2af1,1,Phase 1: First Half (0-45'),4,17,Spain,Pablo Martín Páez Gavira,Ball Recovery,Defensive Third (0-40y),15.8,52.4
+8bb641f6-99d6-4812-a030-ed41a9e09a80,1,Phase 1: First Half (0-45'),4,22,Spain,Pablo Martín Páez Gavira,Ball Recovery,Defensive Third (0-40y),31.7,71.1
+66180b56-caf9-4b60-853e-79c86398de77,1,Phase 1: First Half (0-45'),4,25,Japan,Hidemasa Morita,Pressure,Middle Third (40-80y),66.8,9.0
+b301a181-3507-42c5-ac51-cf6f2843e903,1,Phase 1: First Half (0-45'),4,36,Japan,Daizen Maeda,Pressure,Middle Third (40-80y),62.2,42.3
+5e21c1d7-6f14-45da-b4d8-62270e32310d,1,Phase 1: First Half (0-45'),4,50,Japan,Takefusa Kubo,Pressure,Middle Third (40-80y),51.2,66.0
+fb547684-9ef7-4182-9ebc-5fcafe27a203,1,Phase 1: First Half (0-45'),5,19,Japan,Junya Ito,Pressure,Defensive Third (0-40y),31.1,75.2
+c26b0123-73fe-43f2-9941-2f9250cf7e15,1,Phase 1: First Half (0-45'),5,21,Japan,Daizen Maeda,Pressure,Middle Third (40-80y),47.0,71.7
+99d6e25a-7bf0-4913-a090-ac23b21e7f28,1,Phase 1: First Half (0-45'),5,45,Japan,Daichi Kamada,Pressure,Middle Third (40-80y),40.5,14.7
+38b8df63-e05e-4da0-a79e-97c6c152f2da,1,Phase 1: First Half (0-45'),5,58,Japan,Maya Yoshida,Clearance,Defensive Third (0-40y),5.1,36.6
+e7b2e381-1ba6-4255-8b94-e03996a71b10,1,Phase 1: First Half (0-45'),5,58,Spain,Daniel Olmo Carvajal,Pressure,Attacking Third (80-120y),113.6,44.0
+6ff0ae3b-3b00-4d1a-92f2-533d6676b823,1,Phase 1: First Half (0-45'),6,0,Spain,Nicholas Williams Arthuer,Pressure,Attacking Third (80-120y),115.5,58.5
+c068f735-c717-4b9a-9255-009e688bbca8,1,Phase 1: First Half (0-45'),6,1,Spain,Sergio Busquets i Burgos,Ball Recovery,Attacking Third (80-120y),97.3,55.4
+826185f0-2e8b-46ce-80da-be977407b4d0,1,Phase 1: First Half (0-45'),6,34,Spain,Pau Francisco Torres,Foul Committed,Middle Third (40-80y),74.9,66.7
+511ea043-b3f1-48f6-8c6a-3902749ebcf5,1,Phase 1: First Half (0-45'),6,50,Spain,César Azpilicueta Tanco,Pressure,Middle Third (40-80y),77.7,77.5
+3ac53d5a-fb2e-4ce1-82c8-67a99f4e0fa3,1,Phase 1: First Half (0-45'),6,53,Japan,Daizen Maeda,Pressure,Attacking Third (80-120y),86.6,13.2
+a0a309c9-ce5e-4887-bcde-8d6ab67677ed,1,Phase 1: First Half (0-45'),7,3,Spain,Sergio Busquets i Burgos,Pressure,Defensive Third (0-40y),19.0,56.5
+4e879aa3-ced7-4545-a309-b24f7174e99d,1,Phase 1: First Half (0-45'),7,9,Spain,Pedro González López,Interception,Defensive Third (0-40y),12.0,41.1
+12c25d43-aa0b-4901-a4a0-bead42cfba22,1,Phase 1: First Half (0-45'),8,14,Japan,Ko Itakura,Pressure,Defensive Third (0-40y),28.9,55.4
+080c5068-0469-49a7-8042-3261a5305264,1,Phase 1: First Half (0-45'),8,14,Japan,Maya Yoshida,Pressure,Defensive Third (0-40y),26.2,49.6
+31b6de07-8ff5-41c3-b5c7-d24e49611971,1,Phase 1: First Half (0-45'),8,23,Japan,Hidemasa Morita,Clearance,Defensive Third (0-40y),7.5,46.1
+287c1f2f-1147-4bf6-9fdb-fcfd2d49735a,1,Phase 1: First Half (0-45'),8,24,Japan,Takefusa Kubo,Ball Recovery,Defensive Third (0-40y),5.9,53.2
+4d97d1e2-d30c-4594-a9f9-0fd9ee7d28ad,1,Phase 1: First Half (0-45'),8,24,Spain,Pedro González López,Pressure,Attacking Third (80-120y),111.3,28.1
+550d8c86-3338-446f-9c25-0aa47a15dd9b,1,Phase 1: First Half (0-45'),8,25,Japan,Takefusa Kubo,Pressure,Defensive Third (0-40y),5.0,64.8
+f8ad7964-afda-45bf-87eb-b4777e98ed51,1,Phase 1: First Half (0-45'),9,10,Spain,Pau Francisco Torres,Ball Recovery,Defensive Third (0-40y),31.5,19.2
+c780a0e1-8a81-4d72-865b-be430b903740,1,Phase 1: First Half (0-45'),9,26,Japan,Daichi Kamada,Pressure,Middle Third (40-80y),47.2,14.9
+12333aca-27ae-4568-883d-21816c21d2e1,1,Phase 1: First Half (0-45'),9,28,Japan,Daizen Maeda,Pressure,Middle Third (40-80y),69.1,26.0
+c2796b0b-4253-4b35-aba3-3fce89cd41d5,1,Phase 1: First Half (0-45'),9,35,Japan,Ao Tanaka,Pressure,Middle Third (40-80y),51.4,55.8
+32338946-5223-4b55-b384-5253df3061d5,1,Phase 1: First Half (0-45'),9,47,Japan,Takefusa Kubo,Pressure,Middle Third (40-80y),43.6,66.6
+26658e1d-48da-434d-a22c-ff93039e7d8e,1,Phase 1: First Half (0-45'),9,59,Japan,Daichi Kamada,Pressure,Middle Third (40-80y),44.4,17.4
+8a13e2e0-8596-4bb1-8703-c6e1137d14a2,1,Phase 1: First Half (0-45'),10,1,Japan,Yuto Nagatomo,Pressure,Defensive Third (0-40y),39.1,2.4
+8c43fba0-e97a-416b-ba7d-469596b8328f,1,Phase 1: First Half (0-45'),10,5,Japan,Hidemasa Morita,Pressure,Middle Third (40-80y),48.7,24.9
+772e6384-a688-4a0b-97f9-b3e44de63736,1,Phase 1: First Half (0-45'),10,10,Japan,Junya Ito,Pressure,Defensive Third (0-40y),31.5,75.0
+fa007226-85a8-4afd-b0e4-2d4e1f9ceb8f,1,Phase 1: First Half (0-45'),10,22,Japan,Shogo Taniguchi,Pressure,Defensive Third (0-40y),36.0,8.8
+6961cee3-9f2e-457b-949d-42b3fee0a917,1,Phase 1: First Half (0-45'),10,23,Japan,Daichi Kamada,Pressure,Middle Third (40-80y),46.3,5.9
+aeb78fb8-b7fe-4205-9b75-026aa858ce9f,1,Phase 1: First Half (0-45'),10,25,Japan,Daichi Kamada,Pressure,Middle Third (40-80y),43.4,3.0
+da029023-0141-44ae-95e3-4c02150edd66,1,Phase 1: First Half (0-45'),10,26,Spain,Nicholas Williams Arthuer,Ball Recovery,Middle Third (40-80y),75.3,78.3
+ddf45f1e-9879-490f-afe8-427a0c5a291d,1,Phase 1: First Half (0-45'),10,26,Japan,Daichi Kamada,Foul Committed,Middle Third (40-80y),46.1,2.4
+f1b5ff00-2184-49c4-8501-c628a6e86dc3,1,Phase 1: First Half (0-45'),10,37,Japan,Ao Tanaka,Pressure,Defensive Third (0-40y),37.7,53.4
+99e38880-38e1-48a0-b75c-5c08ea4ccddb,1,Phase 1: First Half (0-45'),10,44,Japan,Takefusa Kubo,Pressure,Defensive Third (0-40y),13.0,70.7
+4e532924-8957-41cf-84bc-1dff4896e57d,1,Phase 1: First Half (0-45'),10,44,Spain,Daniel Olmo Carvajal,Ball Recovery,Attacking Third (80-120y),106.3,7.6
+e7447327-b25d-4351-ae4f-40b3f0072aec,1,Phase 1: First Half (0-45'),10,47,Spain,Pedro González López,Block,Attacking Third (80-120y),100.5,26.9
+635a0ccb-80e3-4074-a127-af72c5b51624,1,Phase 1: First Half (0-45'),10,48,Spain,Pablo Martín Páez Gavira,Ball Recovery,Attacking Third (80-120y),97.7,46.7
+8592b9ee-d7a8-4552-897a-fd676e50ff15,1,Phase 1: First Half (0-45'),10,54,Japan,Hidemasa Morita,Clearance,Defensive Third (0-40y),5.5,32.6
+d40da1c4-dd9b-4edb-90f3-b360759c3b03,1,Phase 1: First Half (0-45'),10,55,Spain,Nicholas Williams Arthuer,Ball Recovery,Attacking Third (80-120y),108.9,68.1
+979acbe5-1d45-4397-89b1-36e4839741f7,1,Phase 1: First Half (0-45'),12,11,Spain,Rodrigo Hernández Cascante,Clearance,Defensive Third (0-40y),5.8,35.1
+099ef901-b142-4f19-8e63-6d284527f56d,1,Phase 1: First Half (0-45'),12,14,Spain,Pedro González López,Ball Recovery,Defensive Third (0-40y),14.2,11.3
+8f34229c-220b-45aa-b5d7-c27556e0889a,1,Phase 1: First Half (0-45'),12,14,Japan,Takefusa Kubo,Pressure,Attacking Third (80-120y),103.3,64.2
+c57a2208-043e-4522-aa3f-1a48a4882bfa,1,Phase 1: First Half (0-45'),12,17,Japan,Daizen Maeda,Pressure,Attacking Third (80-120y),109.6,71.0
+321f63df-a160-41c2-9b09-9f559101a505,1,Phase 1: First Half (0-45'),12,18,Japan,Junya Ito,Pressure,Attacking Third (80-120y),90.9,73.9
+25e8aa1c-9b7c-4554-9ca1-a534fb45fc2b,1,Phase 1: First Half (0-45'),12,19,Japan,Ko Itakura,Ball Recovery,Attacking Third (80-120y),88.4,68.3
+4a38aabf-d464-4b5b-af0c-93a389d2049c,1,Phase 1: First Half (0-45'),12,25,Japan,Hidemasa Morita,Interception,Middle Third (40-80y),46.5,74.6
+ba3f5630-eaa3-4e7b-80ad-fe134d1a774a,1,Phase 1: First Half (0-45'),13,4,Japan,Takefusa Kubo,Pressure,Middle Third (40-80y),45.9,67.7
+51d6fb30-efc5-43a7-97bd-ea0ff2c69936,1,Phase 1: First Half (0-45'),13,15,Japan,Hidemasa Morita,Pressure,Middle Third (40-80y),45.4,11.0
+ffcc5fa2-a0d9-441c-99bd-c7447426c96e,1,Phase 1: First Half (0-45'),13,23,Japan,Takefusa Kubo,Pressure,Middle Third (40-80y),62.0,69.3
+ddb5241c-6532-4b3f-a958-2622ee2b5416,1,Phase 1: First Half (0-45'),14,2,Japan,Shogo Taniguchi,Clearance,Defensive Third (0-40y),31.5,33.2
+efcc7fb8-8eb0-49de-a54a-b0a29613d519,1,Phase 1: First Half (0-45'),14,28,Japan,Takefusa Kubo,Pressure,Middle Third (40-80y),61.3,67.9
+6653661d-858e-4034-bd15-9f394f17e870,1,Phase 1: First Half (0-45'),14,36,Japan,Takefusa Kubo,Pressure,Middle Third (40-80y),68.0,64.8
+27114920-40df-4fe7-ac4a-0593494c181a,1,Phase 1: First Half (0-45'),14,38,Japan,Daizen Maeda,Pressure,Middle Third (40-80y),77.9,54.8
+9a5fc941-8401-4d56-81cb-5c08b7e64ca8,1,Phase 1: First Half (0-45'),14,44,Japan,Ao Tanaka,Pressure,Middle Third (40-80y),63.1,54.4
+f799a206-64b2-4f0c-88e8-e8a254041cdc,1,Phase 1: First Half (0-45'),15,18,Japan,Takefusa Kubo,Pressure,Middle Third (40-80y),58.2,53.4
+bceb7b51-3de2-4d1e-8eac-36e9dc99e1bf,1,Phase 1: First Half (0-45'),15,22,Japan,Junya Ito,Pressure,Middle Third (40-80y),56.4,75.0
+803d324d-a070-4978-942b-9652b75e26e6,1,Phase 1: First Half (0-45'),15,54,Japan,Hidemasa Morita,Pressure,Middle Third (40-80y),54.4,37.5
+5c51ab77-e4bc-49cd-ba09-4b84ca9ffcd4,1,Phase 1: First Half (0-45'),15,59,Japan,Ao Tanaka,Pressure,Defensive Third (0-40y),31.7,28.2
+353477b6-9343-492f-b8eb-c0cfe673da04,1,Phase 1: First Half (0-45'),16,11,Japan,Ao Tanaka,Block,Defensive Third (0-40y),26.2,54.4
+4599928b-2805-4b58-bc1c-7b1bb6dd3e7a,1,Phase 1: First Half (0-45'),16,12,Japan,Ao Tanaka,Pressure,Defensive Third (0-40y),25.8,55.8
+86b2111d-6f3c-423e-ab01-cdb799062cc7,1,Phase 1: First Half (0-45'),16,13,Spain,Pedro González López,Ball Recovery,Attacking Third (80-120y),91.6,23.7
+f711969a-9f2a-4dfd-8bf6-7e03ddc121c6,1,Phase 1: First Half (0-45'),16,26,Japan,Junya Ito,Pressure,Middle Third (40-80y),42.4,70.3
+12c698c9-1687-4036-a1c4-f0c71098d5c4,1,Phase 1: First Half (0-45'),16,33,Japan,Daizen Maeda,Pressure,Middle Third (40-80y),55.6,43.4
+24b502f4-a2d0-428f-89aa-c2f8c1f52da0,1,Phase 1: First Half (0-45'),16,33,Japan,Maya Yoshida,Pressure,Defensive Third (0-40y),37.1,48.9
+3e504191-4acf-43cd-ae78-2849b2b1581e,1,Phase 1: First Half (0-45'),16,42,Spain,Álvaro Borja Morata Martín,Pressure,Attacking Third (80-120y),101.0,34.9
+fbb1fe07-6a17-4e62-a94d-db4bd1ebbf3f,1,Phase 1: First Half (0-45'),16,43,Spain,Álvaro Borja Morata Martín,Pressure,Attacking Third (80-120y),110.0,38.2
+9436644a-9ce1-4a42-a815-5d96e849df4f,1,Phase 1: First Half (0-45'),16,50,Japan,Yuto Nagatomo,Pressure,Defensive Third (0-40y),27.3,11.2
+ab4a3b1a-fa5a-44ac-a801-8d159bce6c64,1,Phase 1: First Half (0-45'),16,59,Japan,Ko Itakura,Pressure,Defensive Third (0-40y),29.5,51.1
+33c31112-865e-4ed3-aff2-61e8853c41dd,1,Phase 1: First Half (0-45'),17,3,Japan,Junya Ito,Pressure,Defensive Third (0-40y),29.7,76.0
+098b6177-dc91-4a6b-a901-4ccb5b7f87a3,1,Phase 1: First Half (0-45'),17,14,Japan,Daizen Maeda,Pressure,Middle Third (40-80y),53.0,36.6
+0c57e6fc-d62f-4442-bb03-7c750366e176,1,Phase 1: First Half (0-45'),17,40,Japan,Daizen Maeda,Interception,Middle Third (40-80y),53.4,39.0
+c3497560-578d-4c9e-be03-80761780982b,1,Phase 1: First Half (0-45'),17,42,Japan,Shogo Taniguchi,Ball Recovery,Defensive Third (0-40y),31.8,32.0
+232a5255-b803-45df-ad6e-77c17e0b3cc4,1,Phase 1: First Half (0-45'),17,45,Spain,Sergio Busquets i Burgos,Pressure,Middle Third (40-80y),79.5,41.4
+f4ba7822-3e85-4d8a-a5ea-ce1e5528cd0e,1,Phase 1: First Half (0-45'),17,48,Spain,Daniel Olmo Carvajal,Pressure,Middle Third (40-80y),72.2,10.6
+0023b40a-9209-4c32-8a66-aa0c448bc7af,1,Phase 1: First Half (0-45'),17,49,Spain,Alejandro Balde Martínez,Pressure,Middle Third (40-80y),56.3,3.3
+15882aa9-9b7a-4aab-9df7-213dcde651bb,1,Phase 1: First Half (0-45'),17,50,Spain,Daniel Olmo Carvajal,Pressure,Middle Third (40-80y),61.2,5.1
+15736652-877e-44f6-b04c-05d4cf32857b,1,Phase 1: First Half (0-45'),17,50,Spain,Daniel Olmo Carvajal,Foul Committed,Middle Third (40-80y),59.6,2.7
+7add5011-0daf-4353-a441-587f8c5d59eb,1,Phase 1: First Half (0-45'),18,12,Spain,César Azpilicueta Tanco,Block,Middle Third (40-80y),75.1,72.8
+50f2fbe7-53e6-4cd3-bb49-f05e41c64b7a,1,Phase 1: First Half (0-45'),18,13,Spain,Nicholas Williams Arthuer,Pressure,Middle Third (40-80y),78.9,66.0
+4115aa4d-4bca-4fca-80e5-ab036f41093e,1,Phase 1: First Half (0-45'),18,14,Spain,Pablo Martín Páez Gavira,Pressure,Middle Third (40-80y),75.1,63.0
+f82191a8-4f93-4ffb-9981-fde95277ce05,1,Phase 1: First Half (0-45'),18,14,Japan,Daichi Kamada,Ball Recovery,Middle Third (40-80y),46.1,15.7
+9bf9adff-a4b2-4fe4-883e-c6709c2dcad5,1,Phase 1: First Half (0-45'),18,14,Spain,César Azpilicueta Tanco,Pressure,Middle Third (40-80y),71.0,64.4
+977f7f80-4033-4d1f-8105-cc10fc6a0f00,1,Phase 1: First Half (0-45'),18,23,Japan,Daizen Maeda,Interception,Middle Third (40-80y),56.0,37.9
+80e7b2df-52ef-4a19-8b73-8fe2d63b7250,1,Phase 1: First Half (0-45'),18,24,Spain,Álvaro Borja Morata Martín,Ball Recovery,Middle Third (40-80y),77.5,43.3
+525ffc92-f468-406e-8588-1661215c21cc,1,Phase 1: First Half (0-45'),18,37,Japan,Daizen Maeda,Pressure,Middle Third (40-80y),63.3,61.1
+b5cfdde0-9f69-46e6-9f57-e73002d1d8c2,1,Phase 1: First Half (0-45'),18,38,Japan,Ko Itakura,Clearance,Middle Third (40-80y),40.6,68.3
+24c44b3a-03ed-476b-9cdb-e3998a194c1d,1,Phase 1: First Half (0-45'),19,48,Japan,Shogo Taniguchi,Foul Committed,Defensive Third (0-40y),35.2,3.3
+e73e4def-6c1a-419f-a02f-f25715c6facf,1,Phase 1: First Half (0-45'),20,21,Japan,Takefusa Kubo,Pressure,Middle Third (40-80y),42.8,67.9
+74d50cc6-5d80-4125-9049-d8c03f2e76ba,1,Phase 1: First Half (0-45'),20,23,Japan,Daizen Maeda,Pressure,Middle Third (40-80y),56.6,57.5
+6cbfa077-8a56-4ede-bcb6-6b83b3387e64,1,Phase 1: First Half (0-45'),20,33,Japan,Hidemasa Morita,Pressure,Defensive Third (0-40y),29.3,29.3
+288532f2-20e2-4d72-a001-bc892048fa12,1,Phase 1: First Half (0-45'),20,33,Japan,Hidemasa Morita,Block,Defensive Third (0-40y),28.9,28.9
+861fedb8-9603-4ba0-811f-1edec4bd9c72,1,Phase 1: First Half (0-45'),20,35,Spain,Pedro González López,Pressure,Attacking Third (80-120y),88.8,37.7
+a78d55d7-2480-41e3-8b6e-803958013649,1,Phase 1: First Half (0-45'),20,48,Spain,Nicholas Williams Arthuer,Pressure,Middle Third (40-80y),54.3,75.0
+e312f74a-b39a-4d5f-8bf2-b0e501d03ab3,1,Phase 1: First Half (0-45'),20,50,Spain,Sergio Busquets i Burgos,Ball Recovery,Middle Third (40-80y),49.3,63.6
+637e3129-a71f-449a-8e42-2ed39cd5639e,1,Phase 1: First Half (0-45'),21,13,Japan,Daizen Maeda,Pressure,Middle Third (40-80y),63.7,55.4
+b0ebc201-8a00-4a27-962b-299af6315b65,1,Phase 1: First Half (0-45'),21,15,Japan,Takefusa Kubo,Pressure,Middle Third (40-80y),56.9,68.6
+9ade70fe-d06d-43ae-b3d7-ff74adfd3756,1,Phase 1: First Half (0-45'),22,22,Japan,Hidemasa Morita,Pressure,Middle Third (40-80y),69.1,49.4
+455650d8-5a08-4728-ace3-203f7584c70a,1,Phase 1: First Half (0-45'),22,30,Japan,Maya Yoshida,Pressure,Middle Third (40-80y),43.8,25.5
+37e8b1c7-8808-4f3c-9787-8230b13b86f0,1,Phase 1: First Half (0-45'),22,33,Japan,Shogo Taniguchi,Block,Defensive Third (0-40y),18.9,20.2
+6628c446-8b7e-48c5-a321-246e578914c8,1,Phase 1: First Half (0-45'),22,47,Spain,Pedro González López,Pressure,Attacking Third (80-120y),93.0,23.4
+b6979001-ff81-4dc3-b2a5-5859f4174a11,1,Phase 1: First Half (0-45'),22,50,Spain,Sergio Busquets i Burgos,Ball Recovery,Attacking Third (80-120y),81.2,6.9
+178c575a-873e-4d33-883c-d125f041cb9c,1,Phase 1: First Half (0-45'),22,52,Japan,Takefusa Kubo,Pressure,Defensive Third (0-40y),34.0,76.6
+36842fd0-02c4-414a-bd10-9754162ba37a,1,Phase 1: First Half (0-45'),22,53,Japan,Ao Tanaka,Pressure,Defensive Third (0-40y),28.9,72.3
+dbba4cd4-469d-46d4-b7d9-441b21b6b51a,1,Phase 1: First Half (0-45'),23,27,Japan,Yuto Nagatomo,Pressure,Defensive Third (0-40y),36.8,4.1
+eaae499b-a663-4766-b678-48b9fd0c827b,1,Phase 1: First Half (0-45'),23,43,Japan,Takefusa Kubo,Pressure,Middle Third (40-80y),66.8,69.9
+287bc3e9-fe79-41e7-aea3-14cb03047ca2,1,Phase 1: First Half (0-45'),23,44,Japan,Hidemasa Morita,Pressure,Middle Third (40-80y),63.1,50.7
+872cfdf2-6030-4ac9-8007-9aec6abc842a,1,Phase 1: First Half (0-45'),24,51,Spain,Pedro González López,Pressure,Middle Third (40-80y),72.7,42.0
+52962d25-c54f-4971-a4e6-a405790f1271,1,Phase 1: First Half (0-45'),24,54,Spain,Nicholas Williams Arthuer,Pressure,Middle Third (40-80y),73.3,68.3
+d2c8e204-30ca-40f5-ac73-fb61fd53d865,1,Phase 1: First Half (0-45'),25,23,Japan,Daizen Maeda,Pressure,Middle Third (40-80y),59.3,36.6
+64eea79b-4984-4e47-850d-72c7ad0afe19,1,Phase 1: First Half (0-45'),25,26,Japan,Daichi Kamada,Pressure,Middle Third (40-80y),55.6,6.7
+198cb40b-c269-4503-bbb8-240379b1106c,1,Phase 1: First Half (0-45'),25,38,Japan,Takefusa Kubo,Pressure,Attacking Third (80-120y),97.8,58.2
+f3b86cae-cb6b-4b3b-946c-53c6cce4f5b8,1,Phase 1: First Half (0-45'),25,47,Spain,Pablo Martín Páez Gavira,Pressure,Defensive Third (0-40y),39.8,53.8
+998d52ed-3f43-4555-97b0-b0abc9c1da95,1,Phase 1: First Half (0-45'),25,49,Spain,Sergio Busquets i Burgos,Ball Recovery,Defensive Third (0-40y),38.4,49.5
+b311aecc-c411-4478-aaab-02b894318036,1,Phase 1: First Half (0-45'),25,52,Japan,Takefusa Kubo,Pressure,Attacking Third (80-120y),85.6,39.7
+e1b12bfa-a84d-4c93-be67-78b11c476f5a,1,Phase 1: First Half (0-45'),25,55,Japan,Takefusa Kubo,Pressure,Attacking Third (80-120y),104.3,36.6
+95166aed-96d1-4ac0-94b8-dc5d559fbfb1,1,Phase 1: First Half (0-45'),25,58,Japan,Daizen Maeda,Pressure,Attacking Third (80-120y),102.9,12.3
+c02ce76b-7998-45d6-ad6b-4dc4dfe75456,1,Phase 1: First Half (0-45'),26,16,Japan,Ko Itakura,Pressure,Defensive Third (0-40y),18.3,67.3
+28835b31-b7c0-4246-b9e0-4cc939fbda80,1,Phase 1: First Half (0-45'),26,29,Spain,Sergio Busquets i Burgos,Pressure,Attacking Third (80-120y),85.1,13.3
+bb3ff181-9d5a-439b-aebe-2c7968551065,1,Phase 1: First Half (0-45'),26,43,Japan,Maya Yoshida,Pressure,Defensive Third (0-40y),39.9,49.9
+3096deef-905f-4f0f-8ff4-804a1f434455,1,Phase 1: First Half (0-45'),27,1,Japan,Takefusa Kubo,Pressure,Middle Third (40-80y),40.2,70.4
+52ff6f7c-3be5-4875-b7aa-76533780753d,1,Phase 1: First Half (0-45'),27,4,Japan,Ko Itakura,Pressure,Defensive Third (0-40y),39.4,70.1
+e96e9efe-23e4-4737-be8e-203e7c4f3389,1,Phase 1: First Half (0-45'),27,6,Japan,Hidemasa Morita,Pressure,Middle Third (40-80y),48.2,55.7
+ab4866fa-f6b1-4821-9b0c-89abe182abca,1,Phase 1: First Half (0-45'),27,6,Japan,Hidemasa Morita,Foul Committed,Middle Third (40-80y),50.9,57.5
+e5ed08c0-4232-4582-a121-bbb8e26b3ed9,1,Phase 1: First Half (0-45'),27,25,Japan,Yuto Nagatomo,Pressure,Middle Third (40-80y),42.8,2.9
+d525d570-b9fc-4096-93f0-1e7b5fdc685e,1,Phase 1: First Half (0-45'),27,39,Japan,Daizen Maeda,Pressure,Attacking Third (80-120y),110.4,31.6
+4a3f2747-5da2-4589-9be2-88e197725220,1,Phase 1: First Half (0-45'),27,42,Japan,Daichi Kamada,Pressure,Attacking Third (80-120y),101.1,5.0
+8e85044b-df53-4ad4-b9a9-3bb958a6387b,1,Phase 1: First Half (0-45'),27,47,Japan,Hidemasa Morita,Ball Recovery,Middle Third (40-80y),79.6,23.5
+c37920a6-eda4-43e6-84f9-fa24c44d30f0,1,Phase 1: First Half (0-45'),27,47,Spain,Pablo Martín Páez Gavira,Pressure,Middle Third (40-80y),41.4,55.6
+bc80117a-ba23-4fbf-9659-9711b9448874,1,Phase 1: First Half (0-45'),27,52,Spain,Daniel Olmo Carvajal,Ball Recovery,Middle Third (40-80y),57.1,15.2
+ead11187-ed90-4f2e-a631-469f60a81425,1,Phase 1: First Half (0-45'),27,59,Japan,Shūichi Gonda,Ball Recovery,Defensive Third (0-40y),7.4,42.7
+143ea230-69ee-4d6d-a1c1-5318d4476c50,1,Phase 1: First Half (0-45'),28,6,Spain,Alejandro Balde Martínez,Pressure,Middle Third (40-80y),76.4,10.7
+f262f1b5-468d-4504-a622-c0fd4113d809,1,Phase 1: First Half (0-45'),28,7,Japan,Junya Ito,Pressure,Middle Third (40-80y),40.8,72.1
+d675100a-efbd-4ebc-a7cb-5cfccedbaf82,1,Phase 1: First Half (0-45'),28,29,Japan,Hidemasa Morita,Pressure,Middle Third (40-80y),45.3,39.9
+95bc414e-c694-4eb1-9a35-0706599ee40c,1,Phase 1: First Half (0-45'),28,31,Japan,Ko Itakura,Pressure,Defensive Third (0-40y),30.3,51.4
+2f5839ca-ac67-4452-bbd7-209573466534,1,Phase 1: First Half (0-45'),28,43,Japan,Daichi Kamada,Pressure,Middle Third (40-80y),47.3,15.0
+30c73f01-ccf2-4146-8a44-9dbc8cdcc395,1,Phase 1: First Half (0-45'),28,51,Japan,Ko Itakura,Pressure,Defensive Third (0-40y),35.7,47.7
+115b810a-c247-464e-b1e9-c3bcc328fd37,1,Phase 1: First Half (0-45'),29,1,Japan,Yuto Nagatomo,Pressure,Middle Third (40-80y),40.4,2.9
+619749bc-945c-47f9-a219-fed5a92c7fdc,1,Phase 1: First Half (0-45'),29,14,Japan,Daizen Maeda,Pressure,Middle Third (40-80y),57.0,35.3
+2a493cac-9131-42be-961d-69ec270cf26d,1,Phase 1: First Half (0-45'),29,51,Spain,Daniel Olmo Carvajal,Pressure,Attacking Third (80-120y),112.1,28.9
+a1f138f4-fa6c-4db3-93d9-da804e1aed2c,1,Phase 1: First Half (0-45'),29,54,Spain,Álvaro Borja Morata Martín,Pressure,Attacking Third (80-120y),103.8,25.2
+5cd9f1a1-3a26-4dd6-8276-ab538a805546,1,Phase 1: First Half (0-45'),29,57,Spain,Alejandro Balde Martínez,Pressure,Attacking Third (80-120y),85.9,2.8
+c8c668f0-1551-460b-9007-efe63b0001ea,1,Phase 1: First Half (0-45'),29,57,Spain,Alejandro Balde Martínez,Foul Committed,Attacking Third (80-120y),92.3,3.5
+a176c41f-219c-499a-b996-28af177fe54b,1,Phase 1: First Half (0-45'),30,17,Spain,Pablo Martín Páez Gavira,Pressure,Middle Third (40-80y),70.5,59.5
+a7ee72c7-3a3b-4d11-bf42-8ec38d9f5f86,1,Phase 1: First Half (0-45'),30,36,Spain,Nicholas Williams Arthuer,Pressure,Middle Third (40-80y),53.4,72.6
+c6056e1d-b503-4a94-b7a7-3c69fa24402b,1,Phase 1: First Half (0-45'),31,23,Japan,Daizen Maeda,Pressure,Middle Third (40-80y),69.1,37.4
+42a7ee2d-eb83-4a79-933c-32cc603374e0,1,Phase 1: First Half (0-45'),31,24,Japan,Daizen Maeda,Foul Committed,Middle Third (40-80y),65.0,38.2
+2a4b7a31-ea5c-4a5c-99be-1fbd74a71590,1,Phase 1: First Half (0-45'),32,25,Japan,Daizen Maeda,Pressure,Attacking Third (80-120y),111.2,10.7
+8a67a87f-c372-49ac-ae00-a6f1b0254a0c,1,Phase 1: First Half (0-45'),32,26,Japan,Shogo Taniguchi,Pressure,Attacking Third (80-120y),88.8,10.9
+f504c9bb-9fc5-416b-8efd-bf05d30e4a25,1,Phase 1: First Half (0-45'),32,27,Japan,Shogo Taniguchi,Foul Committed,Attacking Third (80-120y),91.0,10.9
+a82ee633-b885-4823-a00e-f28e61afd903,1,Phase 1: First Half (0-45'),33,6,Japan,Maya Yoshida,Interception,Middle Third (40-80y),44.9,49.9
+3d016805-6ac4-483e-aed0-2f7106732fbf,1,Phase 1: First Half (0-45'),33,7,Spain,Álvaro Borja Morata Martín,Pressure,Middle Third (40-80y),71.5,27.5
+5a9b271b-0832-42a1-928d-a0f5429c1d59,1,Phase 1: First Half (0-45'),33,9,Spain,Sergio Busquets i Burgos,Pressure,Middle Third (40-80y),55.9,26.9
+02fb7835-abd2-40f0-a520-07760c18ff3b,1,Phase 1: First Half (0-45'),33,36,Japan,Takefusa Kubo,Pressure,Middle Third (40-80y),75.7,68.6
+ed19262c-2682-40f5-ba61-9ae1a76d0259,1,Phase 1: First Half (0-45'),33,40,Japan,Daizen Maeda,Pressure,Attacking Third (80-120y),110.4,38.2
+013e565e-44c6-4b9a-b914-fdf827f6e671,1,Phase 1: First Half (0-45'),33,54,Spain,Nicholas Williams Arthuer,Pressure,Middle Third (40-80y),79.7,61.4
+c28ac5b7-2d56-4710-8c0b-8d5dd1603a72,1,Phase 1: First Half (0-45'),34,1,Spain,Pablo Martín Páez Gavira,Pressure,Middle Third (40-80y),60.7,67.5
+78bb3a3a-f529-408a-b75d-1f7d3d3a7ebb,1,Phase 1: First Half (0-45'),34,57,Japan,Daichi Kamada,Pressure,Middle Third (40-80y),59.4,3.8
+12bd1828-4d4d-4409-b509-998e53861755,1,Phase 1: First Half (0-45'),35,0,Japan,Hidemasa Morita,Ball Recovery,Middle Third (40-80y),55.2,15.0
+0284d981-f2c0-4e21-ac98-35c3bc1e84fa,1,Phase 1: First Half (0-45'),35,0,Spain,Sergio Busquets i Burgos,Pressure,Middle Third (40-80y),62.1,65.4
+8ea6cad9-17c6-40c2-ab73-18241b7b7fdd,1,Phase 1: First Half (0-45'),35,4,Spain,Daniel Olmo Carvajal,Pressure,Middle Third (40-80y),59.6,22.3
+a2479f30-0a95-4a0e-a70a-abfd26e25b22,1,Phase 1: First Half (0-45'),35,27,Spain,Pedro González López,Pressure,Defensive Third (0-40y),26.8,48.2
+55ed3819-371e-4697-8426-a4820e63be59,1,Phase 1: First Half (0-45'),35,36,Spain,Pablo Martín Páez Gavira,Pressure,Defensive Third (0-40y),34.6,52.5
+c950a103-5b44-4767-91ed-0d110d577de5,1,Phase 1: First Half (0-45'),35,45,Spain,Alejandro Balde Martínez,Pressure,Defensive Third (0-40y),14.1,13.8
+6d4c0a51-573d-452d-a156-734f3c989714,1,Phase 1: First Half (0-45'),35,46,Japan,Junya Ito,Pressure,Attacking Third (80-120y),100.5,62.3
+1e9d8dbe-922b-4da4-b880-aa09efe7f001,1,Phase 1: First Half (0-45'),35,48,Japan,Daichi Kamada,Ball Recovery,Attacking Third (80-120y),98.2,59.6
+7561072c-1303-4b47-abb0-4eb9c9620e18,1,Phase 1: First Half (0-45'),35,50,Spain,Pau Francisco Torres,Block,Defensive Third (0-40y),11.2,27.4
+a6731bdc-7c22-4a07-a48b-9e5e1034ee47,1,Phase 1: First Half (0-45'),36,17,Spain,Daniel Olmo Carvajal,Pressure,Defensive Third (0-40y),11.8,8.3
+ce8791f8-9619-49f5-a104-86ebd50a881b,1,Phase 1: First Half (0-45'),36,17,Spain,Pedro González López,Pressure,Defensive Third (0-40y),8.3,6.8
+fbe2bda4-3026-4f06-a803-b4f8eb9bd1f5,1,Phase 1: First Half (0-45'),36,19,Spain,Pedro González López,Ball Recovery,Defensive Third (0-40y),20.4,2.0
+10475413-df1d-40ef-8de4-d83d5ea04f31,1,Phase 1: First Half (0-45'),36,41,Japan,Junya Ito,Pressure,Attacking Third (80-120y),87.8,67.6
+b26e9874-3c0b-4724-967c-fbdda072cec6,1,Phase 1: First Half (0-45'),37,0,Japan,Takefusa Kubo,Pressure,Middle Third (40-80y),74.6,62.1
+2ce55afb-08a4-4c6c-9cb7-059645cac0a4,1,Phase 1: First Half (0-45'),37,2,Japan,Junya Ito,Pressure,Middle Third (40-80y),52.7,74.8
+b39d0da8-eff0-48c0-bb50-40af0d7a9d30,1,Phase 1: First Half (0-45'),37,5,Japan,Takefusa Kubo,Pressure,Middle Third (40-80y),58.2,73.3
+2d68199d-557c-49c7-8c7d-1f3a8fac0af9,1,Phase 1: First Half (0-45'),37,23,Japan,Daizen Maeda,Pressure,Middle Third (40-80y),44.5,41.1
+fca29f29-0a94-4766-a72b-49a87935ca76,1,Phase 1: First Half (0-45'),37,38,Japan,Hidemasa Morita,Pressure,Middle Third (40-80y),63.4,6.8
+f18e2465-be33-4445-aabb-ba1bfa9704c4,1,Phase 1: First Half (0-45'),37,41,Japan,Ao Tanaka,Pressure,Middle Third (40-80y),64.2,19.8
+0de81327-cbf0-4b68-915f-2017ae21e2a9,1,Phase 1: First Half (0-45'),38,0,Japan,Maya Yoshida,Pressure,Middle Third (40-80y),40.6,39.0
+a45d41e6-6570-48bb-a1e9-9bf0d6dcf34a,1,Phase 1: First Half (0-45'),38,2,Japan,Ao Tanaka,Pressure,Middle Third (40-80y),44.1,47.1
+e6bc2ecb-b2c2-47bb-9b60-c5dec60d19cc,1,Phase 1: First Half (0-45'),38,15,Japan,Yuto Nagatomo,Pressure,Middle Third (40-80y),42.5,2.5
+fc61b6e7-a9a1-451a-8042-7c7fc1fbc3f1,1,Phase 1: First Half (0-45'),38,24,Japan,Ko Itakura,Pressure,Middle Third (40-80y),67.2,50.3
+d103d948-7637-4130-89dc-db62ce202098,1,Phase 1: First Half (0-45'),38,24,Japan,Ko Itakura,Foul Committed,Middle Third (40-80y),70.4,51.4
+f665e568-a472-404b-a074-180d7a93e35c,1,Phase 1: First Half (0-45'),39,20,Japan,Daizen Maeda,Pressure,Middle Third (40-80y),70.3,19.5
+4f519545-ca09-436a-8008-87c93233016c,1,Phase 1: First Half (0-45'),39,27,Japan,Hidemasa Morita,Ball Recovery,Middle Third (40-80y),74.0,62.0
+891dda7c-355f-4d8b-b762-fcffaf5bc2c6,1,Phase 1: First Half (0-45'),39,29,Spain,Sergio Busquets i Burgos,Pressure,Defensive Third (0-40y),33.1,25.8
+edfe9cb7-c6a8-4c6d-86ac-5095167b715f,1,Phase 1: First Half (0-45'),39,34,Japan,Ao Tanaka,Pressure,Attacking Third (80-120y),114.9,61.4
+fb9d8858-c738-43da-9156-31f035ce54bd,1,Phase 1: First Half (0-45'),40,13,Japan,Yuto Nagatomo,Pressure,Middle Third (40-80y),53.5,2.9
+32a8dfcf-360d-47ae-a0f9-c452f81d9aa4,1,Phase 1: First Half (0-45'),40,15,Japan,Hidemasa Morita,Pressure,Middle Third (40-80y),65.0,17.7
+ddf9d077-b017-4541-9324-0a13ca10d296,1,Phase 1: First Half (0-45'),40,37,Spain,Sergio Busquets i Burgos,Block,Middle Third (40-80y),60.7,37.3
+50991718-0668-4380-a598-a9a2db39689d,1,Phase 1: First Half (0-45'),40,40,Spain,Rodrigo Hernández Cascante,Interception,Middle Third (40-80y),50.3,40.8
+779128b8-613c-44bd-8816-c252178988c9,1,Phase 1: First Half (0-45'),41,13,Japan,Junya Ito,Pressure,Defensive Third (0-40y),9.4,70.9
+3d1d65e8-12d1-4a75-b49a-127789a85e3a,1,Phase 1: First Half (0-45'),41,17,Japan,Junya Ito,Block,Defensive Third (0-40y),8.3,64.9
+0b1d430e-17ff-4505-83f8-2f2b4b08357b,1,Phase 1: First Half (0-45'),41,17,Spain,Daniel Olmo Carvajal,Ball Recovery,Attacking Third (80-120y),113.2,15.2
+1085cae9-690d-4f51-b3f0-a284a2126c74,1,Phase 1: First Half (0-45'),41,21,Japan,Junya Ito,Pressure,Defensive Third (0-40y),7.7,62.3
+7a2cae18-dfde-48d5-9477-688a4654b1ff,1,Phase 1: First Half (0-45'),41,47,Japan,Junya Ito,Ball Recovery,Defensive Third (0-40y),27.8,58.3
+f5cb0f38-3f92-4047-8ad1-2eee85348087,1,Phase 1: First Half (0-45'),41,48,Spain,Álvaro Borja Morata Martín,Pressure,Attacking Third (80-120y),84.4,30.4
+f7bb5573-dbf9-42a7-ab34-92ec0e4619d9,1,Phase 1: First Half (0-45'),41,49,Spain,Sergio Busquets i Burgos,Block,Attacking Third (80-120y),86.7,31.0
+5558cfa0-ce7f-493e-bfea-cc780f5eb3c5,1,Phase 1: First Half (0-45'),41,49,Spain,Sergio Busquets i Burgos,Ball Recovery,Attacking Third (80-120y),88.0,30.4
+bfbc11ae-c0cd-4873-bd89-16b6e2215e9d,1,Phase 1: First Half (0-45'),41,49,Japan,Ko Itakura,Pressure,Defensive Third (0-40y),32.1,52.4
+68d0f6b9-665b-4dc7-9f3c-07f7a36d1b28,1,Phase 1: First Half (0-45'),41,54,Japan,Shogo Taniguchi,Block,Defensive Third (0-40y),16.4,44.6
+a8b9a4b2-99a0-424a-8c5f-fddcd2a64455,1,Phase 1: First Half (0-45'),42,15,Japan,Takefusa Kubo,Pressure,Defensive Third (0-40y),33.4,45.0
+ee377c6d-184d-4ebc-9f86-86a011cc5f41,1,Phase 1: First Half (0-45'),42,15,Japan,Ko Itakura,Pressure,Defensive Third (0-40y),26.7,43.6
+34daa2bb-2a40-4c06-a173-1eb603ed79ed,1,Phase 1: First Half (0-45'),42,24,Japan,Daizen Maeda,Pressure,Middle Third (40-80y),47.3,36.4
+080523ae-b7ef-4ad7-a79a-effdc7c45912,1,Phase 1: First Half (0-45'),42,27,Japan,Daichi Kamada,Pressure,Middle Third (40-80y),46.0,15.3
+ad1c58b1-a045-4573-9e81-a1c646025782,1,Phase 1: First Half (0-45'),42,54,Japan,Takefusa Kubo,Pressure,Middle Third (40-80y),41.2,54.6
+15efa209-c8b7-4fae-b51a-456c9604198f,1,Phase 1: First Half (0-45'),42,55,Japan,Takefusa Kubo,Block,Middle Third (40-80y),40.2,54.0
+6f3bd608-eb3c-44a3-87ac-d9b13fd91bca,1,Phase 1: First Half (0-45'),42,58,Spain,Daniel Olmo Carvajal,Pressure,Attacking Third (80-120y),87.9,11.7
+7edd54b7-2757-492b-977a-f8dd3576f935,1,Phase 1: First Half (0-45'),43,1,Spain,Pablo Martín Páez Gavira,Pressure,Middle Third (40-80y),77.6,23.4
+87286f4f-92ca-4c88-bf18-b662fa78e57f,1,Phase 1: First Half (0-45'),43,3,Spain,Alejandro Balde Martínez,Interception,Middle Third (40-80y),51.6,13.2
+a2ea15e6-4b68-4f6c-9e91-a793317fe777,1,Phase 1: First Half (0-45'),43,27,Japan,Daizen Maeda,Pressure,Middle Third (40-80y),64.6,33.5
+51adfb49-3723-4653-9eb7-105a890f2d66,1,Phase 1: First Half (0-45'),43,28,Japan,Daichi Kamada,Pressure,Middle Third (40-80y),59.4,10.7
+0688866d-3ea0-462e-b4e3-892e383c26bb,1,Phase 1: First Half (0-45'),43,30,Japan,Yuto Nagatomo,Pressure,Middle Third (40-80y),49.7,1.5
+826c246a-02b5-4453-9d36-cbe9198b78c9,1,Phase 1: First Half (0-45'),43,31,Japan,Shogo Taniguchi,Pressure,Middle Third (40-80y),54.3,10.1
+6a6f5549-dce2-42a7-9d4e-e3d9bcde6a32,1,Phase 1: First Half (0-45'),43,31,Japan,Shogo Taniguchi,Foul Committed,Middle Third (40-80y),56.6,7.7
+cf5cb1e6-5e58-4541-8f22-28580056bb72,1,Phase 1: First Half (0-45'),44,20,Japan,Maya Yoshida,Pressure,Middle Third (40-80y),42.2,52.0
+8f8e08ae-05f8-4d4c-a0dc-48dbab76b94e,1,Phase 1: First Half (0-45'),44,20,Japan,Maya Yoshida,Foul Committed,Middle Third (40-80y),43.9,52.2
+c9a7b88d-6650-4bf0-b247-ac090d3605e2,1,Phase 1: First Half (0-45'),45,25,Japan,Daizen Maeda,Pressure,Middle Third (40-80y),57.4,51.4
+44884f26-1379-440e-a8b1-595c41df8399,1,Phase 1: First Half (0-45'),45,37,Japan,Yuto Nagatomo,Block,Defensive Third (0-40y),7.1,22.4
+aad91d48-4475-4eb0-a273-96559ef6047c,1,Phase 1: First Half (0-45'),46,12,Japan,Maya Yoshida,Clearance,Defensive Third (0-40y),3.4,41.4
+2eb46075-c93c-4f77-b47e-b280091e2095,2,Phase 2: HT Tactical Shift (46-61'),45,3,Spain,Pablo Martín Páez Gavira,Pressure,Middle Third (40-80y),55.5,40.9
+da3ff0fc-b625-4acd-ba3a-760336644575,2,Phase 2: HT Tactical Shift (46-61'),45,6,Spain,Nicholas Williams Arthuer,Pressure,Middle Third (40-80y),68.9,61.1
+30ee6afd-5310-4838-8b12-3040d06acf92,2,Phase 2: HT Tactical Shift (46-61'),45,8,Spain,Daniel Carvajal Ramos,Pressure,Middle Third (40-80y),52.6,74.4
+59ad55dc-accc-4bb0-810e-25cc2a60ff06,2,Phase 2: HT Tactical Shift (46-61'),45,21,Spain,Alejandro Balde Martínez,Interception,Middle Third (40-80y),49.5,13.3
+74cca804-d41f-46ab-9034-75dd02494f91,2,Phase 2: HT Tactical Shift (46-61'),45,22,Spain,Alejandro Balde Martínez,Pressure,Middle Third (40-80y),55.1,15.0
+0bd90f31-a92c-4b80-80d7-bfe01f17ec31,2,Phase 2: HT Tactical Shift (46-61'),45,22,Japan,Ao Tanaka,Ball Recovery,Middle Third (40-80y),63.3,65.1
+c700772c-f295-419b-85bb-f806310caf60,2,Phase 2: HT Tactical Shift (46-61'),45,23,Spain,Alejandro Balde Martínez,Foul Committed,Middle Third (40-80y),56.6,12.9
+98e5b410-52d0-4a1e-a309-b368ef1e60a1,2,Phase 2: HT Tactical Shift (46-61'),45,40,Spain,Pablo Martín Páez Gavira,Pressure,Middle Third (40-80y),66.2,21.7
+d191ce36-77c3-4357-92c8-deeeda53f0a7,2,Phase 2: HT Tactical Shift (46-61'),46,21,Spain,Álvaro Borja Morata Martín,Pressure,Attacking Third (80-120y),96.9,16.5
+7ec8a22b-45dd-4681-9c68-38f5d9e302d2,2,Phase 2: HT Tactical Shift (46-61'),46,43,Spain,Daniel Carvajal Ramos,Pressure,Middle Third (40-80y),73.3,74.2
+508c99d3-9668-4585-9d7f-e309a5b990bf,2,Phase 2: HT Tactical Shift (46-61'),46,46,Spain,Pablo Martín Páez Gavira,Pressure,Attacking Third (80-120y),93.6,59.9
+1c823b0d-29b4-4a77-af5d-0d66f28b47ad,2,Phase 2: HT Tactical Shift (46-61'),46,48,Spain,Pau Francisco Torres,Interception,Middle Third (40-80y),69.9,40.2
+34e318ec-2329-46df-ae3a-e25ef4005575,2,Phase 2: HT Tactical Shift (46-61'),47,3,Spain,Pablo Martín Páez Gavira,Pressure,Attacking Third (80-120y),96.4,70.6
+a6e171cb-de8a-4e05-8540-7df8126dc61e,2,Phase 2: HT Tactical Shift (46-61'),47,32,Japan,Daizen Maeda,Pressure,Attacking Third (80-120y),98.2,41.5
+dbb73cf0-c16f-4014-9d5b-31d13f806025,2,Phase 2: HT Tactical Shift (46-61'),47,36,Japan,Kaoru Mitoma,Pressure,Attacking Third (80-120y),94.0,4.5
+105587b1-cfcb-4f27-9d4b-9618284fd7b7,2,Phase 2: HT Tactical Shift (46-61'),47,36,Japan,Daichi Kamada,Pressure,Attacking Third (80-120y),103.5,9.0
+d46091cf-bff1-4da7-988a-6cd3fd150e00,2,Phase 2: HT Tactical Shift (46-61'),47,38,Japan,Kaoru Mitoma,Pressure,Attacking Third (80-120y),108.4,10.3
+055bf04c-2ef6-4574-8f02-d06a5a4f8f72,2,Phase 2: HT Tactical Shift (46-61'),47,40,Japan,Daizen Maeda,Pressure,Attacking Third (80-120y),112.6,26.7
+78529454-af83-417d-8814-86dc19a92811,2,Phase 2: HT Tactical Shift (46-61'),47,46,Spain,Pedro González López,Pressure,Defensive Third (0-40y),20.0,21.5
+7c054cb3-a5dc-41c4-8e9b-11974d60ca6d,2,Phase 2: HT Tactical Shift (46-61'),49,10,Spain,Daniel Carvajal Ramos,Ball Recovery,Attacking Third (80-120y),92.4,75.2
+7c3eeaba-fa21-450c-9ef7-5db800f560fa,2,Phase 2: HT Tactical Shift (46-61'),49,11,Spain,Daniel Carvajal Ramos,Pressure,Attacking Third (80-120y),100.2,76.5
+bcb32c09-0ad1-4f6f-a054-5db72abea493,2,Phase 2: HT Tactical Shift (46-61'),49,12,Japan,Shogo Taniguchi,Clearance,Defensive Third (0-40y),15.0,4.0
+6a0929b4-f530-4d42-a925-0eaf9326e0a5,2,Phase 2: HT Tactical Shift (46-61'),49,27,Japan,Daizen Maeda,Pressure,Defensive Third (0-40y),37.9,10.8
+330adb20-7884-4fbb-9e61-ebe4e842c780,2,Phase 2: HT Tactical Shift (46-61'),54,0,Spain,Rodrigo Hernández Cascante,Foul Committed,Middle Third (40-80y),79.0,68.8
+1c80a9fa-06f1-4ed2-95f7-a9ce2499e5e2,2,Phase 2: HT Tactical Shift (46-61'),54,22,Spain,Daniel Olmo Carvajal,Ball Recovery,Middle Third (40-80y),45.8,11.8
+e1617148-abab-4124-afa6-8fd708094c18,2,Phase 2: HT Tactical Shift (46-61'),54,22,Japan,Junya Ito,Pressure,Middle Third (40-80y),71.5,68.5
+27dd31ab-bf7e-4176-b303-0a1942bd2d10,2,Phase 2: HT Tactical Shift (46-61'),54,24,Japan,Ao Tanaka,Interception,Middle Third (40-80y),68.6,58.6
+1781a32b-6abf-457d-9a77-f6811e7320dc,2,Phase 2: HT Tactical Shift (46-61'),54,26,Spain,Sergio Busquets i Burgos,Interception,Middle Third (40-80y),40.6,31.7
+3511a0ec-e8a1-4ba3-a7b9-399e749465fa,2,Phase 2: HT Tactical Shift (46-61'),54,29,Japan,Maya Yoshida,Pressure,Middle Third (40-80y),52.0,44.2
+94667d53-a149-4be9-be90-bbb8a04a62ff,2,Phase 2: HT Tactical Shift (46-61'),54,32,Japan,Maya Yoshida,Pressure,Middle Third (40-80y),51.0,41.6
+4e565ef1-b97d-4f0a-bc77-a373e0c1762c,2,Phase 2: HT Tactical Shift (46-61'),54,37,Japan,Shūichi Gonda,Ball Recovery,Defensive Third (0-40y),14.5,31.8
+dba12e98-4e9b-4ef5-b50c-7684df4934f6,2,Phase 2: HT Tactical Shift (46-61'),54,46,Spain,Alejandro Balde Martínez,Pressure,Middle Third (40-80y),66.5,2.0
+06a342fe-d2b7-4157-96b1-ed8e00dbbe32,2,Phase 2: HT Tactical Shift (46-61'),54,48,Spain,Pedro González López,Ball Recovery,Middle Third (40-80y),54.0,19.0
+047315f1-b929-400b-b263-7e74e4d67000,2,Phase 2: HT Tactical Shift (46-61'),54,50,Spain,Rodrigo Hernández Cascante,Foul Committed,Middle Third (40-80y),53.2,19.2
+42671ad9-5806-447c-94a8-6dfad45f9000,2,Phase 2: HT Tactical Shift (46-61'),56,43,Japan,Daizen Maeda,Pressure,Attacking Third (80-120y),106.8,61.5
+8d7bf436-d825-4c32-86fc-d0401b4495b6,2,Phase 2: HT Tactical Shift (46-61'),56,45,Japan,Daizen Maeda,Pressure,Attacking Third (80-120y),115.2,48.9
+52b0e591-a9f2-4817-a2b1-660c4aaf8343,2,Phase 2: HT Tactical Shift (46-61'),56,48,Japan,Daichi Kamada,Pressure,Attacking Third (80-120y),110.2,16.8
+e266feea-4dd5-4168-a470-56f0fdbc2dcf,2,Phase 2: HT Tactical Shift (46-61'),56,57,Japan,Daizen Maeda,Pressure,Attacking Third (80-120y),94.0,47.8
+5db153fb-f05c-409c-8282-f4722e66ad77,2,Phase 2: HT Tactical Shift (46-61'),57,1,Japan,Junya Ito,Ball Recovery,Middle Third (40-80y),55.1,63.4
+00f86723-b90b-4c2f-b0dd-aa640f33e060,2,Phase 2: HT Tactical Shift (46-61'),57,2,Spain,Daniel Olmo Carvajal,Pressure,Middle Third (40-80y),63.6,18.8
+db3f6d04-7d0e-4073-bd10-406f5a20bd24,2,Phase 2: HT Tactical Shift (46-61'),57,5,Spain,Ferrán Torres García,Ball Recovery,Middle Third (40-80y),52.1,55.9
+ac6a7fce-0f2b-4a1d-a289-b636be055ae7,2,Phase 2: HT Tactical Shift (46-61'),57,8,Japan,Kaoru Mitoma,Pressure,Attacking Third (80-120y),81.6,25.2
+5cd129de-d643-491c-b39b-99d7ebcf6903,2,Phase 2: HT Tactical Shift (46-61'),57,45,Japan,Kaoru Mitoma,Pressure,Defensive Third (0-40y),38.1,5.1
+3f0c2b32-5eab-46da-b92b-5eed2b0e0c19,2,Phase 2: HT Tactical Shift (46-61'),57,59,Japan,Daizen Maeda,Pressure,Middle Third (40-80y),49.3,33.1
+ed75da51-f0ce-4e5e-8343-865c5ad22276,2,Phase 2: HT Tactical Shift (46-61'),58,2,Japan,Daichi Kamada,Pressure,Middle Third (40-80y),45.5,16.8
+8fcff843-fff6-4ac6-b39c-6c47ea27127d,2,Phase 2: HT Tactical Shift (46-61'),58,20,Japan,Ao Tanaka,Pressure,Middle Third (40-80y),42.1,59.7
+f326559e-93b9-4078-8d44-1300c3f47178,2,Phase 2: HT Tactical Shift (46-61'),58,22,Spain,Marco Asensio Willemsen,Pressure,Attacking Third (80-120y),90.4,24.6
+3e67796c-14d2-4236-bd08-6779909d1cde,2,Phase 2: HT Tactical Shift (46-61'),58,31,Spain,Alejandro Balde Martínez,Pressure,Middle Third (40-80y),62.9,11.0
+6e9e8b76-6ec2-4b29-bc40-14cd80a47492,2,Phase 2: HT Tactical Shift (46-61'),58,56,Japan,Daichi Kamada,Pressure,Middle Third (40-80y),68.8,35.5
+699c5d63-12bf-414a-a842-e74b1dcd01f6,2,Phase 2: HT Tactical Shift (46-61'),59,1,Japan,Ritsu Doan,Pressure,Middle Third (40-80y),68.2,74.4
+27f5ab03-67e3-4f3a-902f-638f589ef17b,2,Phase 2: HT Tactical Shift (46-61'),59,21,Japan,Hidemasa Morita,Pressure,Middle Third (40-80y),41.5,10.1
+eb2c6c7c-5406-4e92-8657-fa77db510adf,2,Phase 2: HT Tactical Shift (46-61'),59,21,Spain,Pablo Martín Páez Gavira,Ball Recovery,Middle Third (40-80y),79.4,72.7
+c802251d-5fd2-41d8-8df6-4895639c5afa,2,Phase 2: HT Tactical Shift (46-61'),59,24,Japan,Daichi Kamada,Pressure,Defensive Third (0-40y),30.0,4.2
+61298762-aa3b-4b9f-982f-a04b7908f431,2,Phase 2: HT Tactical Shift (46-61'),59,25,Japan,Hidemasa Morita,Pressure,Defensive Third (0-40y),26.2,9.9
+6d653474-df8c-4613-a970-55fece2475d5,2,Phase 2: HT Tactical Shift (46-61'),59,41,Japan,Daizen Maeda,Pressure,Middle Third (40-80y),40.5,43.7
+4d5a521b-1177-4d33-a185-0e47b0971a9e,2,Phase 2: HT Tactical Shift (46-61'),59,59,Japan,Junya Ito,Pressure,Defensive Third (0-40y),38.6,78.1
+464a3b18-2c45-4f74-b523-c46479443994,2,Phase 2: HT Tactical Shift (46-61'),60,2,Japan,Ao Tanaka,Pressure,Middle Third (40-80y),57.7,68.0
+8c2d4559-3e21-4be5-b986-71523e031d65,2,Phase 2: HT Tactical Shift (46-61'),60,15,Japan,Hidemasa Morita,Interception,Middle Third (40-80y),44.4,47.1
+f601cc37-217f-4b78-bcc0-a8758cfb322b,2,Phase 2: HT Tactical Shift (46-61'),60,16,Spain,Pedro González López,Pressure,Middle Third (40-80y),65.4,34.1
+80686537-c50b-42ac-bfb1-6e7ba4e9610b,2,Phase 2: HT Tactical Shift (46-61'),60,19,Spain,Pedro González López,Ball Recovery,Middle Third (40-80y),62.0,42.5
+2a2a0620-b6ab-4e64-a85b-e7c5b6b0fbcb,2,Phase 2: HT Tactical Shift (46-61'),60,20,Japan,Hidemasa Morita,Pressure,Middle Third (40-80y),54.7,37.9
+4de7546c-58ae-4242-bf66-3aba2d9efa10,2,Phase 2: HT Tactical Shift (46-61'),60,24,Japan,Kaoru Mitoma,Pressure,Defensive Third (0-40y),38.4,9.0
+2a868ac8-5612-4cdb-ac91-b36d1f9f8618,2,Phase 2: HT Tactical Shift (46-61'),60,36,Japan,Ao Tanaka,Interception,Defensive Third (0-40y),10.5,29.2
+ba706929-04c1-4613-990c-87cc7ab94a51,2,Phase 2: HT Tactical Shift (46-61'),60,39,Spain,Ferrán Torres García,Pressure,Attacking Third (80-120y),110.7,71.9
+d93331f7-d6bc-4dad-9a66-84d292a88514,2,Phase 2: HT Tactical Shift (46-61'),60,40,Spain,Pablo Martín Páez Gavira,Block,Attacking Third (80-120y),102.5,70.4
+34969489-03b9-4d9e-8305-84b08f1668ab,2,Phase 3: Closing Phase (62-90'+),61,40,Japan,Kaoru Mitoma,Pressure,Defensive Third (0-40y),32.9,8.2
+41031a30-2206-4d4a-9a0c-3b3330592092,2,Phase 3: Closing Phase (62-90'+),61,47,Japan,Ritsu Doan,Pressure,Middle Third (40-80y),43.8,44.7
+c88a41f3-b070-4780-9563-11d7f48b732e,2,Phase 3: Closing Phase (62-90'+),61,48,Japan,Ritsu Doan,Foul Committed,Middle Third (40-80y),46.0,38.7
+276d5792-1654-4377-90d0-c3571b32630f,2,Phase 3: Closing Phase (62-90'+),61,52,Japan,Ao Tanaka,Pressure,Defensive Third (0-40y),33.7,64.7
+c81bdb89-286e-4b70-b9ae-18f14384640c,2,Phase 3: Closing Phase (62-90'+),62,3,Spain,Rodrigo Hernández Cascante,Pressure,Defensive Third (0-40y),12.0,25.4
+ca9883aa-642d-411b-aabe-0f6629bdfd19,2,Phase 3: Closing Phase (62-90'+),62,5,Spain,Unai Simón Mendibil,Ball Recovery,Defensive Third (0-40y),8.2,35.4
+fe12d932-0f86-4238-b4a5-54c769894ac1,2,Phase 3: Closing Phase (62-90'+),62,51,Japan,Daichi Kamada,Pressure,Middle Third (40-80y),51.2,6.6
+c3ecc305-2e85-4a30-ac91-0aae9bb0ec9d,2,Phase 3: Closing Phase (62-90'+),62,53,Spain,Sergio Busquets i Burgos,Pressure,Middle Third (40-80y),64.5,56.2
+11fa6327-8b6f-4ed8-9936-5ad36580742b,2,Phase 3: Closing Phase (62-90'+),63,1,Spain,Alejandro Balde Martínez,Pressure,Defensive Third (0-40y),16.6,20.9
+490dd377-96f1-4120-91c7-a617640321b3,2,Phase 3: Closing Phase (62-90'+),63,2,Spain,Alejandro Balde Martínez,Block,Defensive Third (0-40y),18.5,26.7
+ad650a23-1613-45af-ba01-7c3f152159e9,2,Phase 3: Closing Phase (62-90'+),63,3,Spain,Pedro González López,Ball Recovery,Defensive Third (0-40y),22.5,28.1
+1f922239-eac0-4505-a1ad-8d0b471bd6a2,2,Phase 3: Closing Phase (62-90'+),63,3,Japan,Ritsu Doan,Pressure,Attacking Third (80-120y),100.1,51.3
+c865ea67-483e-4a34-9144-4e4b5b7368ee,2,Phase 3: Closing Phase (62-90'+),63,6,Japan,Ritsu Doan,Pressure,Attacking Third (80-120y),90.9,63.2
+2c726782-9c6b-4ac3-8843-ff09b4af39c0,2,Phase 3: Closing Phase (62-90'+),63,7,Japan,Junya Ito,Pressure,Middle Third (40-80y),79.9,68.5
+39b0949f-2315-4051-afb9-d8a948533b69,2,Phase 3: Closing Phase (62-90'+),63,37,Japan,Ko Itakura,Pressure,Defensive Third (0-40y),30.4,56.9
+ae8e8a07-503c-46b7-97fa-732731547b15,2,Phase 3: Closing Phase (62-90'+),63,48,Japan,Maya Yoshida,Ball Recovery,Defensive Third (0-40y),25.8,47.9
+de1ed1d2-525c-47c1-9648-225d71c415af,2,Phase 3: Closing Phase (62-90'+),63,49,Spain,Pedro González López,Pressure,Attacking Third (80-120y),90.9,28.1
+de767faa-4116-4768-9e06-dfefd0859be2,2,Phase 3: Closing Phase (62-90'+),63,50,Spain,Pedro González López,Foul Committed,Attacking Third (80-120y),89.3,22.6
+a14f8990-1fa9-475a-b17c-54c8c7ca6b40,2,Phase 3: Closing Phase (62-90'+),65,0,Japan,Maya Yoshida,Pressure,Middle Third (40-80y),42.8,39.5
+ee386f57-de85-4f4e-94f4-e213438ff9fe,2,Phase 3: Closing Phase (62-90'+),65,2,Spain,Pedro González López,Pressure,Middle Third (40-80y),69.2,26.7
+625406ed-5c78-4351-872c-18be2f0ac284,2,Phase 3: Closing Phase (62-90'+),65,9,Spain,Alejandro Balde Martínez,Pressure,Defensive Third (0-40y),36.4,13.1
+2f696286-b063-4a4f-8254-d9084809f42e,2,Phase 3: Closing Phase (62-90'+),65,32,Spain,Pedro González López,Pressure,Defensive Third (0-40y),21.5,10.6
+877d3ba9-a5d2-4533-bef4-47fc026b01e6,2,Phase 3: Closing Phase (62-90'+),65,32,Spain,Daniel Olmo Carvajal,Pressure,Defensive Third (0-40y),21.2,4.1
+3218f813-fef8-44fc-960f-a568081a4136,2,Phase 3: Closing Phase (62-90'+),65,34,Spain,Pedro González López,Pressure,Defensive Third (0-40y),18.7,3.6
+bf18482b-0a95-40f7-8258-e569fd9c76b4,2,Phase 3: Closing Phase (62-90'+),66,1,Spain,Rodrigo Hernández Cascante,Clearance,Defensive Third (0-40y),15.4,24.9
+a86dd232-f80a-423f-8bc4-eb4e5eb83630,2,Phase 3: Closing Phase (62-90'+),66,3,Japan,Ritsu Doan,Ball Recovery,Attacking Third (80-120y),97.2,69.7
+a786a301-dcf2-4629-a345-9b44f2c5dab5,2,Phase 3: Closing Phase (62-90'+),66,5,Japan,Ritsu Doan,Pressure,Attacking Third (80-120y),105.3,74.6
+1bb01d14-7c69-41e9-82a5-a69256e64000,2,Phase 3: Closing Phase (62-90'+),66,37,Japan,Kaoru Mitoma,Pressure,Middle Third (40-80y),41.8,4.5
+567bfc0e-7755-4c3a-a53b-e9d431e4611f,2,Phase 3: Closing Phase (62-90'+),67,0,Japan,Ritsu Doan,Ball Recovery,Defensive Third (0-40y),31.0,71.0
+80eb932e-fb6e-49c1-b1ae-115164a58333,2,Phase 3: Closing Phase (62-90'+),67,1,Japan,Junya Ito,Ball Recovery,Defensive Third (0-40y),33.9,76.7
+717ee685-09fe-41d6-9f7c-7d9a1e9003f7,2,Phase 3: Closing Phase (62-90'+),67,1,Spain,Alejandro Balde Martínez,Pressure,Middle Third (40-80y),77.8,3.7
+9c8f2964-28e2-4ddd-9601-6b9bb09d3fb8,2,Phase 3: Closing Phase (62-90'+),69,1,Japan,Hidemasa Morita,Pressure,Middle Third (40-80y),64.1,56.0
+cd0acb7d-252b-4b48-9fab-751a97d96c3b,2,Phase 3: Closing Phase (62-90'+),69,2,Japan,Kaoru Mitoma,Foul Committed,Middle Third (40-80y),46.3,25.1
+87daf802-0e9e-4b88-bdfc-7c4c45df8bb2,2,Phase 3: Closing Phase (62-90'+),69,35,Japan,Ko Itakura,Pressure,Defensive Third (0-40y),28.5,68.0
+cc4d4f9a-3131-491d-bc09-39facaa6072e,2,Phase 3: Closing Phase (62-90'+),69,36,Spain,Anssumane Fati,Pressure,Attacking Third (80-120y),86.2,10.0
+be6dbb49-0202-4862-a8fd-8fb039d5a84b,2,Phase 3: Closing Phase (62-90'+),69,39,Japan,Hidemasa Morita,Pressure,Middle Third (40-80y),42.8,52.0
+566f54fa-9154-424f-a643-4856d39091d9,2,Phase 3: Closing Phase (62-90'+),69,41,Japan,Takuma Asano,Pressure,Middle Third (40-80y),54.9,44.4
+d00a2356-e1f7-495a-a127-7fd2d31ce121,2,Phase 3: Closing Phase (62-90'+),69,43,Japan,Kaoru Mitoma,Interception,Defensive Third (0-40y),36.0,15.8
+44b9714b-dcd5-4277-826c-c3712e8388b3,2,Phase 3: Closing Phase (62-90'+),70,41,Japan,Takuma Asano,Pressure,Middle Third (40-80y),54.9,41.0
+0aad69d4-3213-4d8c-a3c6-e195eee831de,2,Phase 3: Closing Phase (62-90'+),71,19,Japan,Ko Itakura,Pressure,Defensive Third (0-40y),28.3,62.5
+c0d6321f-0c00-43fa-bbf6-9becc072ffc8,2,Phase 3: Closing Phase (62-90'+),71,23,Spain,Sergio Busquets i Burgos,Pressure,Middle Third (40-80y),63.3,24.9
+bc870b6c-e4d9-4058-b9e9-12c6a34a921f,2,Phase 3: Closing Phase (62-90'+),71,26,Spain,Daniel Carvajal Ramos,Interception,Middle Third (40-80y),53.2,39.3
+c5d5104e-2f7b-4566-a73e-bd34021ea10e,2,Phase 3: Closing Phase (62-90'+),71,29,Japan,Ritsu Doan,Interception,Middle Third (40-80y),64.4,57.3
+1300d33f-9e62-48ec-83d3-763639624bb4,2,Phase 3: Closing Phase (62-90'+),71,32,Spain,Jordi Alba Ramos,Ball Recovery,Defensive Third (0-40y),35.3,22.3
+013b1866-2f8c-4cac-9375-c7e95bdf320b,2,Phase 3: Closing Phase (62-90'+),71,37,Japan,Junya Ito,Pressure,Middle Third (40-80y),63.1,22.1
+14167855-62a3-4645-ab42-cec5885d4623,2,Phase 3: Closing Phase (62-90'+),71,45,Japan,Ao Tanaka,Pressure,Middle Third (40-80y),40.9,17.9
+c277ba57-7ac4-4086-93c2-7fc4f4429c53,2,Phase 3: Closing Phase (62-90'+),71,58,Japan,Shogo Taniguchi,Clearance,Defensive Third (0-40y),8.0,39.1
+166e441a-bb28-4e6b-b2d5-a52e2d80005d,2,Phase 3: Closing Phase (62-90'+),72,0,Spain,Daniel Carvajal Ramos,Ball Recovery,Attacking Third (80-120y),105.4,68.5
+fed7de9c-e911-45d1-aaae-3c5e8197e9da,2,Phase 3: Closing Phase (62-90'+),72,10,Spain,Pedro González López,Pressure,Attacking Third (80-120y),106.7,57.4
+7676928e-fcd5-4d45-8986-588b8d834c5e,2,Phase 3: Closing Phase (62-90'+),72,13,Spain,Pedro González López,Pressure,Attacking Third (80-120y),110.9,69.3
+22c4fc6f-d0e1-4ad5-9ebb-5bbd55f15eb3,2,Phase 3: Closing Phase (62-90'+),72,38,Japan,Ao Tanaka,Pressure,Defensive Third (0-40y),28.9,63.8
+f57d8c83-77cb-41c6-b563-78c05eb54b82,2,Phase 3: Closing Phase (62-90'+),72,41,Japan,Hidemasa Morita,Block,Defensive Third (0-40y),22.2,54.2
+0634509b-7d77-464f-9542-b00533484e0e,2,Phase 3: Closing Phase (62-90'+),72,44,Spain,Rodrigo Hernández Cascante,Ball Recovery,Middle Third (40-80y),79.6,32.2
+1cfbdeeb-18e0-475b-a21a-8e9966f58551,2,Phase 3: Closing Phase (62-90'+),72,59,Japan,Kaoru Mitoma,Pressure,Defensive Third (0-40y),7.1,10.5
+3c812f1e-8888-4e49-850c-02404e895605,2,Phase 3: Closing Phase (62-90'+),73,3,Japan,Ritsu Doan,Pressure,Defensive Third (0-40y),19.0,47.1
+8996ed3a-bab2-4e4e-b163-94a3d2df777d,2,Phase 3: Closing Phase (62-90'+),73,6,Spain,Pau Francisco Torres,Ball Recovery,Attacking Third (80-120y),80.7,35.4
+ed9bb490-5207-464e-87d4-066744054b47,2,Phase 3: Closing Phase (62-90'+),73,12,Japan,Maya Yoshida,Block,Defensive Third (0-40y),14.0,55.5
+f1fa9aa8-d6a0-4ae2-8bf3-f99655111560,2,Phase 3: Closing Phase (62-90'+),73,15,Japan,Ritsu Doan,Pressure,Defensive Third (0-40y),26.0,60.1
+21fefcb6-4172-47e7-94f5-508739f5e250,2,Phase 3: Closing Phase (62-90'+),73,25,Japan,Shogo Taniguchi,Clearance,Defensive Third (0-40y),10.3,31.6
+8c8738cd-ecab-43be-ae58-5a273ef576bc,2,Phase 3: Closing Phase (62-90'+),73,59,Japan,Ritsu Doan,Clearance,Defensive Third (0-40y),12.6,57.0
+1d0a6ed7-e4e8-4027-b8dd-09882fab8cee,2,Phase 3: Closing Phase (62-90'+),74,15,Japan,Junya Ito,Pressure,Defensive Third (0-40y),30.2,29.0
+29b010aa-6e6e-44b2-8183-a80c1c67547e,2,Phase 3: Closing Phase (62-90'+),74,23,Japan,Ko Itakura,Clearance,Defensive Third (0-40y),9.6,39.4
+b75bb640-4ac5-48f5-90e0-f02767133223,2,Phase 3: Closing Phase (62-90'+),74,27,Spain,Daniel Carvajal Ramos,Ball Recovery,Middle Third (40-80y),70.0,72.3
+7faab692-0481-4b68-a23d-f4dde693ce48,2,Phase 3: Closing Phase (62-90'+),74,36,Japan,Takehiro Tomiyasu,Pressure,Defensive Third (0-40y),29.2,76.0
+df533688-73ed-48ff-93be-f62cfd4d7aef,2,Phase 3: Closing Phase (62-90'+),74,48,Spain,Daniel Olmo Carvajal,Pressure,Attacking Third (80-120y),97.2,34.1
+d1ff372d-ef77-4c25-8a4d-5648708bbd6f,2,Phase 3: Closing Phase (62-90'+),74,52,Spain,Pedro González López,Ball Recovery,Middle Third (40-80y),76.9,2.9
+0a02d9a7-85eb-4367-b65a-cba0adf9b2e4,2,Phase 3: Closing Phase (62-90'+),75,42,Spain,Rodrigo Hernández Cascante,Clearance,Middle Third (40-80y),41.6,57.6
+82a4f9f9-79ac-437e-af45-b975a99ca582,2,Phase 3: Closing Phase (62-90'+),75,44,Japan,Kaoru Mitoma,Ball Recovery,Middle Third (40-80y),74.0,8.4
+adafc80f-ea16-4207-9d04-115432d78301,2,Phase 3: Closing Phase (62-90'+),75,45,Spain,Ferrán Torres García,Pressure,Middle Third (40-80y),43.5,72.9
+f83c2a5f-3e1f-454e-b1ee-5cdc79ac64a2,2,Phase 3: Closing Phase (62-90'+),75,47,Japan,Kaoru Mitoma,Pressure,Attacking Third (80-120y),81.4,7.8
+49c58df7-4b65-4b19-8859-d06af92e0a22,2,Phase 3: Closing Phase (62-90'+),75,48,Japan,Hidemasa Morita,Pressure,Middle Third (40-80y),74.1,16.0
+17cf574d-02e5-4f15-8337-7cd94d457ca8,2,Phase 3: Closing Phase (62-90'+),76,2,Japan,Takuma Asano,Pressure,Middle Third (40-80y),53.3,36.3
+b3ff2af8-6d03-4e5a-b19b-0ce71244ab48,2,Phase 3: Closing Phase (62-90'+),76,20,Japan,Shogo Taniguchi,Pressure,Defensive Third (0-40y),16.8,9.0
+1297da20-c32c-4008-981d-9ef77bce80f8,2,Phase 3: Closing Phase (62-90'+),76,42,Japan,Hidemasa Morita,Pressure,Defensive Third (0-40y),17.2,25.8
+f2ff60a6-8b3f-4be6-9235-cbbac52f3af1,2,Phase 3: Closing Phase (62-90'+),76,43,Japan,Hidemasa Morita,Block,Defensive Third (0-40y),15.5,22.7
+743cef15-2db6-4429-a68c-e8afb872ea11,2,Phase 3: Closing Phase (62-90'+),76,43,Japan,Hidemasa Morita,Pressure,Defensive Third (0-40y),12.9,21.1
+3aba9d0e-3eb0-419d-ab54-4ce8634c23d6,2,Phase 3: Closing Phase (62-90'+),76,49,Japan,Junya Ito,Pressure,Defensive Third (0-40y),19.0,19.0
+54b5e6d6-292e-4bd2-88d9-d97570c3760f,2,Phase 3: Closing Phase (62-90'+),77,22,Japan,Ko Itakura,Interception,Defensive Third (0-40y),15.3,54.9
+80878763-77dd-4719-9f6f-a797a77d79b8,2,Phase 3: Closing Phase (62-90'+),77,24,Spain,Anssumane Fati,Ball Recovery,Attacking Third (80-120y),108.8,22.1
+db92bc3c-24ea-4100-8cfd-fb40a281c54a,2,Phase 3: Closing Phase (62-90'+),77,24,Japan,Takehiro Tomiyasu,Pressure,Defensive Third (0-40y),14.5,58.3
+90125632-a63c-460f-ab4c-fe8f3e5442de,2,Phase 3: Closing Phase (62-90'+),77,28,Japan,Ao Tanaka,Pressure,Defensive Third (0-40y),17.2,58.6
+1e8e9c2a-710f-4eb2-a38e-07ae82cf33b9,2,Phase 3: Closing Phase (62-90'+),77,33,Japan,Hidemasa Morita,Clearance,Defensive Third (0-40y),11.1,46.3
+e1b3a612-10dc-4749-b034-df25da5d1d6d,2,Phase 3: Closing Phase (62-90'+),77,38,Spain,Pedro González López,Ball Recovery,Middle Third (40-80y),78.8,3.9
+b43c1ae7-bf7c-4980-8429-3cbc33b861ee,2,Phase 3: Closing Phase (62-90'+),77,48,Japan,Kaoru Mitoma,Pressure,Defensive Third (0-40y),22.7,7.2
+4a6f7b27-b784-4a80-8c2a-f547401e56ea,2,Phase 3: Closing Phase (62-90'+),78,1,Japan,Ao Tanaka,Pressure,Defensive Third (0-40y),36.0,62.2
+ff50c708-d24e-48f7-9ee3-c5d9d4cf2967,2,Phase 3: Closing Phase (62-90'+),78,7,Japan,Kaoru Mitoma,Interception,Defensive Third (0-40y),22.4,11.4
+1410cf71-5655-4b04-b55b-28efbe5e26ed,2,Phase 3: Closing Phase (62-90'+),78,24,Japan,Takehiro Tomiyasu,Pressure,Defensive Third (0-40y),27.7,76.4
+2ac75377-78af-4813-87af-e5037ddb4aea,2,Phase 3: Closing Phase (62-90'+),78,55,Japan,Ritsu Doan,Block,Defensive Third (0-40y),21.8,57.5
+c8f61532-b053-48a2-990e-a7e5f13cb9c1,2,Phase 3: Closing Phase (62-90'+),78,57,Spain,Jordi Alba Ramos,Pressure,Attacking Third (80-120y),98.8,4.7
+85739c14-efaa-40de-b5d2-0c679ad8c81c,2,Phase 3: Closing Phase (62-90'+),78,58,Japan,Ritsu Doan,Ball Recovery,Defensive Third (0-40y),24.1,77.9
+49e04d0e-b27e-4e57-9e9a-21c95038fd0a,2,Phase 3: Closing Phase (62-90'+),78,59,Japan,Ritsu Doan,Pressure,Defensive Third (0-40y),28.1,78.1
+33f036ce-5b07-40e4-b418-9e15927e2f2c,2,Phase 3: Closing Phase (62-90'+),78,59,Spain,Pedro González López,Ball Recovery,Attacking Third (80-120y),87.2,2.4
+69bc288c-d631-4d00-baeb-35965375385d,2,Phase 3: Closing Phase (62-90'+),79,18,Japan,Shogo Taniguchi,Block,Defensive Third (0-40y),19.0,35.0
+6f1b0850-0780-4eaf-a819-949e0347359c,2,Phase 3: Closing Phase (62-90'+),79,20,Spain,Daniel Carvajal Ramos,Ball Recovery,Attacking Third (80-120y),82.8,61.8
+93d5c640-5e1a-4a02-8437-805ba6851560,2,Phase 3: Closing Phase (62-90'+),79,24,Japan,Kaoru Mitoma,Pressure,Defensive Third (0-40y),22.2,7.2
+164fbb75-40e9-462a-9171-d65875f7e101,2,Phase 3: Closing Phase (62-90'+),79,28,Japan,Hidemasa Morita,Pressure,Defensive Third (0-40y),7.3,9.2
+d611e301-e50f-4a47-8205-3ecfffb2dd47,2,Phase 3: Closing Phase (62-90'+),79,28,Japan,Hidemasa Morita,Block,Defensive Third (0-40y),7.9,7.4
+e52daeac-f233-4c01-9251-cc5e1822d0fc,2,Phase 3: Closing Phase (62-90'+),79,29,Spain,Ferrán Torres García,Pressure,Attacking Third (80-120y),109.3,75.2
+a797296b-1e1f-44ed-b7f1-21bc3345f7ea,2,Phase 3: Closing Phase (62-90'+),79,31,Spain,Sergio Busquets i Burgos,Pressure,Attacking Third (80-120y),90.3,64.1
+3c210877-e1ef-4094-a084-115c055768c8,2,Phase 3: Closing Phase (62-90'+),79,32,Spain,Rodrigo Hernández Cascante,Ball Recovery,Attacking Third (80-120y),84.1,66.7
+b06ce30f-06b0-48c0-88fb-7a4d15ea0952,2,Phase 3: Closing Phase (62-90'+),79,35,Japan,Ritsu Doan,Pressure,Defensive Third (0-40y),28.1,43.1
+ae9aaf02-261d-4df0-8799-a05cc2d09152,2,Phase 3: Closing Phase (62-90'+),79,36,Japan,Ritsu Doan,Block,Defensive Third (0-40y),27.9,40.0
+0ff1639d-2567-4458-9ab5-1d11a2ebc944,2,Phase 3: Closing Phase (62-90'+),79,46,Japan,Ao Tanaka,Interception,Defensive Third (0-40y),31.0,51.3
+66aeaf9e-bc9d-432c-bc76-9d51d6f1642c,2,Phase 3: Closing Phase (62-90'+),79,50,Spain,Rodrigo Hernández Cascante,Ball Recovery,Middle Third (40-80y),55.7,41.0
+af408adb-f586-4640-b59a-64d30c5f4eb7,2,Phase 3: Closing Phase (62-90'+),80,33,Japan,Takehiro Tomiyasu,Block,Defensive Third (0-40y),3.1,54.6
+771e170f-714d-4158-8e79-2ae287a97d94,2,Phase 3: Closing Phase (62-90'+),80,34,Spain,Anssumane Fati,Block,Attacking Third (80-120y),116.8,21.8
+eceb3b54-b1ec-4581-b3c3-d1326ad4706f,2,Phase 3: Closing Phase (62-90'+),81,16,Spain,Sergio Busquets i Burgos,Clearance,Defensive Third (0-40y),35.8,67.1
+61910551-d1b2-434a-bfd0-229e7ada68e9,2,Phase 3: Closing Phase (62-90'+),81,36,Spain,Daniel Carvajal Ramos,Pressure,Defensive Third (0-40y),13.5,73.7
+3660b71b-4eca-4ba8-aa8b-1f6389a5eeb9,2,Phase 3: Closing Phase (62-90'+),81,37,Spain,Sergio Busquets i Burgos,Pressure,Defensive Third (0-40y),23.2,73.1
+461ead18-de5a-4f10-aef3-988346860c8b,2,Phase 3: Closing Phase (62-90'+),81,38,Spain,Daniel Olmo Carvajal,Pressure,Defensive Third (0-40y),30.6,71.9
+c820b4c8-9797-4246-a926-d90cc5090bfd,2,Phase 3: Closing Phase (62-90'+),81,38,Spain,Sergio Busquets i Burgos,Foul Committed,Defensive Third (0-40y),26.7,71.4
+4d6ae539-b1f9-49ab-a63e-a24257012858,2,Phase 3: Closing Phase (62-90'+),82,38,Japan,Kaoru Mitoma,Pressure,Defensive Third (0-40y),35.4,11.4
+0664619c-2bd5-479b-83c8-bff0097ed452,2,Phase 3: Closing Phase (62-90'+),82,39,Japan,Kaoru Mitoma,Foul Committed,Middle Third (40-80y),41.7,8.0
+3d96fc42-c461-4f8f-9cf8-4449c953817c,2,Phase 3: Closing Phase (62-90'+),82,55,Spain,Daniel Carvajal Ramos,Ball Recovery,Middle Third (40-80y),60.7,67.5
+f5df93be-cd40-4d0d-87f6-78a35df3ce86,2,Phase 3: Closing Phase (62-90'+),83,10,Japan,Kaoru Mitoma,Pressure,Defensive Third (0-40y),30.8,18.3
+1575a55d-3edc-4978-81d8-7b65e8b9209f,2,Phase 3: Closing Phase (62-90'+),83,13,Japan,Junya Ito,Block,Middle Third (40-80y),49.1,8.2
+c14fa13e-a4ff-47b8-9ef9-1fe8c48f4e18,2,Phase 3: Closing Phase (62-90'+),83,16,Spain,Daniel Carvajal Ramos,Ball Recovery,Middle Third (40-80y),51.0,71.6
+cd33e362-fc9e-4e65-9452-4cb5e14de24d,2,Phase 3: Closing Phase (62-90'+),83,25,Japan,Ritsu Doan,Pressure,Defensive Third (0-40y),36.1,75.2
+ec36a304-5695-49da-9db9-cf9db935968d,2,Phase 3: Closing Phase (62-90'+),83,32,Spain,Pau Francisco Torres,Pressure,Middle Third (40-80y),74.4,23.8
+6b3b26e4-aab4-4f82-be9a-9018aa5d3da3,2,Phase 3: Closing Phase (62-90'+),83,37,Spain,Daniel Carvajal Ramos,Pressure,Middle Third (40-80y),41.4,37.8
+c6e301ab-10f9-4311-bfd8-5ba4ea604177,2,Phase 3: Closing Phase (62-90'+),83,37,Japan,Junya Ito,Ball Recovery,Attacking Third (80-120y),83.3,45.8
+330b99d2-fd29-4519-aa2b-c4a0e0c812ac,2,Phase 3: Closing Phase (62-90'+),83,41,Spain,Unai Simón Mendibil,Ball Recovery,Defensive Third (0-40y),8.0,38.5
+82d6dea6-dce3-427b-9cda-85da8e10d03c,2,Phase 3: Closing Phase (62-90'+),83,55,Japan,Kaoru Mitoma,Pressure,Defensive Third (0-40y),24.1,7.8
+8ea7e272-a6d0-4fcb-bb13-47f223cffa6d,2,Phase 3: Closing Phase (62-90'+),84,5,Japan,Takehiro Tomiyasu,Pressure,Defensive Third (0-40y),29.1,74.8
+2c3e5814-4927-4b95-a1c9-40e0a284600e,2,Phase 3: Closing Phase (62-90'+),84,14,Japan,Kaoru Mitoma,Pressure,Defensive Third (0-40y),26.0,8.2
+c9e548f5-fa9f-484e-aebe-8e807e88cf4e,2,Phase 3: Closing Phase (62-90'+),84,30,Japan,Kaoru Mitoma,Block,Defensive Third (0-40y),21.9,28.6
+71ad85d9-10e4-4725-976e-d5b30ff2a536,2,Phase 3: Closing Phase (62-90'+),84,32,Spain,Rodrigo Hernández Cascante,Ball Recovery,Attacking Third (80-120y),85.1,52.8
+74ffbf3d-58a9-454d-a4fe-6ce4dc5d283f,2,Phase 3: Closing Phase (62-90'+),84,46,Japan,Takehiro Tomiyasu,Block,Defensive Third (0-40y),9.6,59.0
+93be0224-7896-4379-b31e-c8bd646ab240,2,Phase 3: Closing Phase (62-90'+),84,47,Japan,Maya Yoshida,Clearance,Defensive Third (0-40y),7.1,45.7
+ba224aa7-816f-4b96-8b34-96ca63f268cf,2,Phase 3: Closing Phase (62-90'+),85,8,Japan,Hidemasa Morita,Pressure,Defensive Third (0-40y),21.1,27.9
+d1ec935d-2d28-43cf-a9d6-4afe16071bee,2,Phase 3: Closing Phase (62-90'+),85,13,Japan,Maya Yoshida,Clearance,Defensive Third (0-40y),9.2,37.0
+c8da82cd-0f4c-4f01-80b4-6091876fc8d9,2,Phase 3: Closing Phase (62-90'+),85,25,Japan,Ritsu Doan,Pressure,Middle Third (40-80y),40.5,51.0
+a53f72e1-c7bd-4a17-a4b8-12366826beee,2,Phase 3: Closing Phase (62-90'+),85,36,Japan,Takehiro Tomiyasu,Pressure,Defensive Third (0-40y),28.7,75.8
+41354956-69d2-4888-bc05-573c23d8862f,2,Phase 3: Closing Phase (62-90'+),85,50,Japan,Kaoru Mitoma,Pressure,Defensive Third (0-40y),25.0,11.4
+6a34b977-2196-404e-beac-101281a5b6df,2,Phase 3: Closing Phase (62-90'+),85,54,Japan,Kaoru Mitoma,Block,Defensive Third (0-40y),24.7,10.3
+3da4484b-6754-48c4-b5c5-c71463baf932,2,Phase 3: Closing Phase (62-90'+),86,40,Japan,Hidemasa Morita,Pressure,Defensive Third (0-40y),22.6,26.9
+1f831b7e-b0c9-4565-9b8d-cf7d00b7ba64,2,Phase 3: Closing Phase (62-90'+),86,41,Japan,Hidemasa Morita,Block,Defensive Third (0-40y),21.4,24.6
+3a7b14af-2d86-4ef8-b3d6-bc6d9496b6f8,2,Phase 3: Closing Phase (62-90'+),86,46,Spain,Rodrigo Hernández Cascante,Ball Recovery,Middle Third (40-80y),74.6,50.4
+efb44d95-4cd4-44e3-8aab-42b931f037c4,2,Phase 3: Closing Phase (62-90'+),87,3,Japan,Wataru Endo,Pressure,Defensive Third (0-40y),31.3,55.9
+77cbaa89-0d5f-40a9-80f7-7842f365dc33,2,Phase 3: Closing Phase (62-90'+),87,5,Japan,Takuma Asano,Pressure,Defensive Third (0-40y),33.7,42.3
+b196f4fe-438e-42f7-964c-a8e88ddefbfc,2,Phase 3: Closing Phase (62-90'+),87,8,Japan,Kaoru Mitoma,Pressure,Defensive Third (0-40y),20.8,13.2
+7ff56048-68ed-48db-8bb8-7639194cb826,2,Phase 3: Closing Phase (62-90'+),87,12,Spain,Daniel Olmo Carvajal,Pressure,Attacking Third (80-120y),100.6,55.1
+2995c44a-979d-4831-8154-622c3b3932bc,2,Phase 3: Closing Phase (62-90'+),87,16,Spain,Rodrigo Hernández Cascante,Pressure,Middle Third (40-80y),54.5,70.2
+4a7df864-21ce-4b26-8adb-c9c22ea39ae5,2,Phase 3: Closing Phase (62-90'+),87,18,Spain,Rodrigo Hernández Cascante,Ball Recovery,Middle Third (40-80y),44.0,71.4
+ff801968-f36b-49e9-9bed-f11f92988856,2,Phase 3: Closing Phase (62-90'+),87,43,Japan,Maya Yoshida,Block,Defensive Third (0-40y),18.7,39.1
+9c5a94ae-2709-468f-bd4b-4176b26d2744,2,Phase 3: Closing Phase (62-90'+),87,49,Spain,Pau Francisco Torres,Ball Recovery,Middle Third (40-80y),44.8,8.5
+f1c258a5-fd26-48e7-bbad-d14da3ce4779,2,Phase 3: Closing Phase (62-90'+),88,25,Japan,Shogo Taniguchi,Clearance,Defensive Third (0-40y),10.3,26.0
+0bfd4315-eb2b-41a2-bf7a-90cd51512f0a,2,Phase 3: Closing Phase (62-90'+),88,27,Spain,Jordi Alba Ramos,Ball Recovery,Attacking Third (80-120y),97.5,20.2
+48786d9a-c141-45b9-b02a-fb6d38459ce7,2,Phase 3: Closing Phase (62-90'+),88,28,Japan,Ritsu Doan,Block,Defensive Third (0-40y),19.3,51.0
+d3320fcd-bbee-48d8-b8f1-abd57a6c03c3,2,Phase 3: Closing Phase (62-90'+),88,32,Spain,Pau Francisco Torres,Ball Recovery,Middle Third (40-80y),74.4,30.2
+c4788d9b-2259-470f-8a0e-eaabf6644bee,2,Phase 3: Closing Phase (62-90'+),88,38,Japan,Ko Itakura,Clearance,Defensive Third (0-40y),20.8,58.4
+dbbd414c-7e7b-47cb-98b7-fa4540d81932,2,Phase 3: Closing Phase (62-90'+),88,40,Spain,Pedro González López,Ball Recovery,Middle Third (40-80y),73.8,13.9
+91202dd3-19e3-44e6-ad0a-06dfb1aa0b82,2,Phase 3: Closing Phase (62-90'+),88,50,Japan,Maya Yoshida,Clearance,Defensive Third (0-40y),6.7,40.0
+ac55759c-ed92-4ca4-86b5-41a186992eab,2,Phase 3: Closing Phase (62-90'+),88,52,Japan,Ritsu Doan,Clearance,Defensive Third (0-40y),18.2,54.2
+205ccb1d-73a3-43d9-89af-04140cd5a32d,2,Phase 3: Closing Phase (62-90'+),88,56,Spain,Jordi Alba Ramos,Ball Recovery,Attacking Third (80-120y),97.5,1.1
+da5ef268-cea8-453b-b4f7-8aea92298d9e,2,Phase 3: Closing Phase (62-90'+),89,5,Japan,Takuma Asano,Pressure,Defensive Third (0-40y),31.6,37.3
+276805d7-c636-4520-8b49-804c38c9d489,2,Phase 3: Closing Phase (62-90'+),89,35,Spain,Pau Francisco Torres,Interception,Defensive Third (0-40y),20.3,3.9
+09bb31e1-cbe1-4b48-ba99-2878bb522248,2,Phase 3: Closing Phase (62-90'+),90,0,Spain,Anssumane Fati,Ball Recovery,Defensive Third (0-40y),14.6,8.3
+234213d3-5465-4e56-9c56-a81dddb151ca,2,Phase 3: Closing Phase (62-90'+),90,1,Japan,Ritsu Doan,Pressure,Attacking Third (80-120y),109.5,71.2
+a2a5ae89-f724-454c-a502-ea84e4dec8a9,2,Phase 3: Closing Phase (62-90'+),90,4,Japan,Junya Ito,Pressure,Attacking Third (80-120y),112.7,38.9
+30d4d14d-5a43-4229-b5e4-16a5ccc36d31,2,Phase 3: Closing Phase (62-90'+),90,7,Japan,Wataru Endo,Pressure,Attacking Third (80-120y),100.7,69.1
+437be9f0-4aba-4a40-b5fa-3556a630ae17,2,Phase 3: Closing Phase (62-90'+),90,8,Japan,Wataru Endo,Block,Attacking Third (80-120y),99.2,75.1
+8ccc12c4-3cc2-4d8a-8480-5bc4f2257746,2,Phase 3: Closing Phase (62-90'+),90,31,Japan,Junya Ito,Block,Defensive Third (0-40y),35.8,14.3
+7370517c-55ca-4ccb-9419-9eb8a45c8676,2,Phase 3: Closing Phase (62-90'+),90,46,Japan,Wataru Endo,Pressure,Defensive Third (0-40y),25.5,57.8
+64214e8c-10c5-4ac0-80cc-a9fa46bbef3f,2,Phase 3: Closing Phase (62-90'+),91,9,Japan,Ko Itakura,Pressure,Defensive Third (0-40y),12.2,61.3
+6431995a-2b93-42ed-838d-ec29f49bea04,2,Phase 3: Closing Phase (62-90'+),91,12,Japan,Shūichi Gonda,Ball Recovery,Defensive Third (0-40y),3.1,54.6
+246663c5-04a4-477f-ac9a-7d7e95e8badc,2,Phase 3: Closing Phase (62-90'+),92,12,Spain,Pedro González López,Ball Recovery,Middle Third (40-80y),74.2,62.0
+043f3843-8584-4f8d-bcad-eb5f5ace760c,2,Phase 3: Closing Phase (62-90'+),92,48,Japan,Takehiro Tomiyasu,Pressure,Defensive Third (0-40y),31.8,77.7
+d09c3f42-9aec-42a8-8c90-0ae5fe243669,2,Phase 3: Closing Phase (62-90'+),93,5,Japan,Hidemasa Morita,Interception,Defensive Third (0-40y),21.3,39.9
+29f12f99-03f0-4afb-9042-b446e1eb63d3,2,Phase 3: Closing Phase (62-90'+),93,8,Japan,Wataru Endo,Clearance,Defensive Third (0-40y),33.3,57.0
+01dca88a-6bca-4fdd-bded-548eaf8952e7,2,Phase 3: Closing Phase (62-90'+),93,36,Japan,Kaoru Mitoma,Pressure,Defensive Third (0-40y),32.1,14.1
+8a36c3d3-4035-4939-a919-6db4b4391614,2,Phase 3: Closing Phase (62-90'+),93,41,Japan,Takuma Asano,Pressure,Middle Third (40-80y),76.1,22.3
+ed2e66e9-64d0-445b-92d0-a2b32cc1524b,2,Phase 3: Closing Phase (62-90'+),93,41,Spain,Rodrigo Hernández Cascante,Ball Recovery,Middle Third (40-80y),40.2,56.7
+08ff95f5-2cca-494a-9574-cc2ab231dd6a,2,Phase 3: Closing Phase (62-90'+),94,3,Japan,Kaoru Mitoma,Pressure,Defensive Third (0-40y),17.1,24.0
+dc2901a6-594b-488d-b34b-9fe14ae2735c,2,Phase 3: Closing Phase (62-90'+),94,3,Japan,Kaoru Mitoma,Ball Recovery,Defensive Third (0-40y),13.8,24.6
+40f8ed8b-5012-4340-8c23-40bd1b7cf73a,2,Phase 3: Closing Phase (62-90'+),94,15,Japan,Maya Yoshida,Clearance,Defensive Third (0-40y),12.1,44.1
+6cf5c97b-2eb1-4b48-ad4a-687263fc07a9,2,Phase 3: Closing Phase (62-90'+),94,43,Japan,Kaoru Mitoma,Pressure,Defensive Third (0-40y),33.1,9.2
+a4f25945-14e4-459b-990b-b382b70966b2,2,Phase 3: Closing Phase (62-90'+),95,7,Japan,Shogo Taniguchi,Clearance,Defensive Third (0-40y),12.9,26.1
+a7f48c14-4194-4fa0-84f8-b10690550af0,2,Phase 3: Closing Phase (62-90'+),95,9,Spain,Rodrigo Hernández Cascante,Ball Recovery,Middle Third (40-80y),75.9,60.6
+c58354a0-0ddb-4c77-ab10-e8db2b2211c3,2,Phase 3: Closing Phase (62-90'+),95,26,Japan,Junya Ito,Pressure,Defensive Third (0-40y),33.3,39.7
+a724735d-e507-4a68-a128-eb728a7962bf,2,Phase 3: Closing Phase (62-90'+),96,7,Spain,Jordi Alba Ramos,Ball Recovery,Defensive Third (0-40y),29.7,17.6
+bfc8fc3a-ded7-40a9-ac1d-e15ecd022997,2,Phase 3: Closing Phase (62-90'+),96,56,Japan,Takehiro Tomiyasu,Block,Defensive Third (0-40y),20.3,62.6
