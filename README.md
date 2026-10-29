@@ -37,7 +37,7 @@ The dashboard is structured into three core analytical components:
 
 | First Half | Second Half Start | Final Phase (Low Block) |
 | :---: | :---: | :---: |
-| ![First Half Defense](jpn-defense-first half.png) | ![Second Half Defense](jpn-defense-second-half.png) | ![Last 10 Min Defense](jpn-defense-last10min.png) |
+| ![First Half Defense](jpn-defense-first%20half.png) | ![Second Half Defense](jpn-defense-second-half.png) | ![Last 10 Min Defense](jpn-defense-last10min.png) |
 
 ### 3. Resource Management & Substitutions (`Player Minutes & Substitutions`)
 * **Focus**: Gantt chart tracking player minutes and substitution timing.
