@@ -13,18 +13,6 @@ The goal was to move beyond final scores and scientifically unpack *how* and *wh
 
 ---
 
-## 🎥 Dashboard Preview & Demo
-> *Here is a quick look at the interactive dashboard in action, utilizing time-series filters to track tactical changes:*
-
-*(If you store your demo video or GIFs in an `assets` folder, you can display them below)*
-<!-- 
-<div align="center">
-  <img src="assets/tableau-jpnvsspn-demo.gif" width="100%" alt="Dashboard Demo">
-</div>
--->
-
----
-
 ## 🛠️ Tech Stack
 * **Data Extraction & Processing**: Python (Pandas, NumPy, StatsBomb API / Open Data libraries)
 * **Visualization & Dashboarding**: Tableau Public (Custom Dark Theme / Qatar 2022 Aesthetic)
@@ -36,7 +24,7 @@ The goal was to move beyond final scores and scientifically unpack *how* and *wh
 
 The dashboard is structured into three core analytical components:
 
-### 1. Shot & xG Map (`Shot & xG Name`)
+### 1. Shot & xG Map (`Shot & xG Map`)
 * **Focus**: Analyzing the efficiency and quality of chances.
 * **Insight**: Despite minimal possession, the tactical transition and clinical execution allowed Japan to overperform their expected goals (xG) during critical moments.
 
@@ -48,7 +36,7 @@ The dashboard is structured into three core analytical components:
 
 | First Half (Low Block) | Second Half / Final Phase |
 | :---: | :---: |
-| ![First Half Defense](assets/jpn-defense-first-half.png) | ![Last 10 Min Defense](assets/jpn-defense-last10min.png) |
+| ![First Half Defense](jpn-defense-first-half.png) | ![Last 10 Min Defense](jpn-defense-last10min.png) |
 
 ### 3. Resource Management & Substitutions (`Player Minutes & Substitutions`)
 * **Focus**: Gantt chart tracking player minutes and substitution timing.
