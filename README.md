@@ -31,12 +31,13 @@ The dashboard is structured into three core analytical components:
 ### 2. Defensive Actions & Pressing Shift (`Defensive Actions`)
 * **Focus**: Spatial distribution of defensive interventions (tackles, pressures, blocks).
 * **Key Tactical Phases**:
-  * **First Half (Low Block)**: Heavy concentration of defensive actions deep in our own half and around the penalty box, intentionally absorbing Spain's possession to deny central space.
-  * **Second Half Shift**: Following half-time adjustments, observing the dynamic evolution of defensive coordinates and pressure points.
+  * **First Half**: Japan attempted to press, but Spain's exceptional technical quality bypassed initial pressure, resulting in scattered defensive actions and deep defending despite conceding only one goal.
+  * **Second Half Start**: Japan turned up the intensity significantly, injecting fresh energy through substitutions and raising the defensive line's momentum.
+  * **Final Phase (True Low Block)**: Spain heavily applied pressure seeking an equalizer, forcing Japan into a resolute, compact low block to secure the historic win.
 
-| First Half (Low Block) | Second Half / Final Phase |
-| :---: | :---: |
-| ![First Half Defense](jpn-defense-first-half.png) | ![Last 10 Min Defense](jpn-defense-last10min.png) |
+| First Half | Second Half Start | Final Phase (Low Block) |
+| :---: | :---: | :---: |
+| ![First Half Defense](jpn-defense-first-half.png) | ![Second Half Defense](jpn-defense-second-half.png) | ![Last 10 Min Defense](jpn-defense-last10min.png) |
 
 ### 3. Resource Management & Substitutions (`Player Minutes & Substitutions`)
 * **Focus**: Gantt chart tracking player minutes and substitution timing.
